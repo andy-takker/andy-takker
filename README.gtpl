@@ -1,5 +1,15 @@
 # @andy-takker (Sergey Natalenko)
 
+<p>
+  I'm a Python Developer (DevOps) who makes cool applications
+  and likes to solve interesting problems at hackathons.
+</p>
+<p>
+ Also, I always try to learn something new and now I really
+  want to get into the Yandex Data Analysis School.
+</p>
+
+
 ### 📫 How To Reach Me  
 
 - Telegram: [@natalenko_sergey](https://t.me/natalenko_sergey)
@@ -91,7 +101,7 @@
 </a>
 
 
-<details>
+
 
 ### 📊 Statistics
 
@@ -112,5 +122,13 @@
     </a>
 </p>
 
-
+<details>
+<summary>Inspired by</summary>
+  <ul>
+    <li><a href="https://github.com/dolfinus/dolfinus">@dolfinus</a> Github profile</li>
+    <li><a href="https://github.com/maximousblk/maximousblk">@maximousblk</a> Github profile</li>
+    <li><a href="https://github.com/coderjojo/creative-profile-readme">Awesome Developer Profile</a> repo</li>
+    <li><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile README</a> repo</li>
+    <li><a href="https://habr.com/ru/post/649363/">Creating a profile README file on GitHub</a> article</li>
+  </ul>
 </details>
