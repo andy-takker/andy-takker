@@ -15,6 +15,61 @@
 - [andy-takker/ma_1_docker](https://github.com/andy-takker/ma_1_docker) - Homework #1 for Microservice Architechture
 
 
+### 💼 Stack I'm Working With
+
+<a href="https://github.com/Ileriayo/markdown-badges">
+  <p align="center">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+    <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+  </p>
+</a>
+
+
+### 🔨 My Recent Pull Requests
+
+
+- [Add body field (test checking workflow)](https://github.com/andy-takker/template_project/pull/2) on [andy-takker/template_project](https://github.com/andy-takker/template_project)
+- [Remove deprecated router](https://github.com/andy-takker/template_project/pull/1) on [andy-takker/template_project](https://github.com/andy-takker/template_project)
+- [Change readme](https://github.com/stackoverfollowers/truetechhack/pull/2) on [stackoverfollowers/truetechhack](https://github.com/stackoverfollowers/truetechhack)
+- [Fix github action](https://github.com/andy-takker/test-accelerator-project/pull/10) on [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project)
+- [Fix github action](https://github.com/andy-takker/test-accelerator-project/pull/9) on [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project)
+
+
+### 💻 Stack I'm Currently Learning
+
+<a href="https://github.com/Ileriayo/markdown-badges">
+  <p align="center">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0193e1?style=for-the-badge&logo=MLflow&logoColor=white"/>
+  </p>
+</a>
+
+
+### 💻 Going To Dive Into
+
+<a href="https://github.com/Ileriayo/markdown-badges">
+  <p align="center">
+      <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+      <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+      <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)"/>
+      <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+      <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+      <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
+  </p>
+</a>
+
 
 ### ⭐ Recent Stars
 
@@ -24,6 +79,7 @@
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew &amp; games on your Android device!
 - [mailcourses/deep_python_spring_2023](https://github.com/mailcourses/deep_python_spring_2023) - Материалы курса Углубленный Python от VK Education, весна 2023
+
 
 ### 💻 Software
 
@@ -40,4 +96,4 @@
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=andy-takker&label=Profile-views)
+![](https://komarev.com/ghpvc/?username=andy-takker)

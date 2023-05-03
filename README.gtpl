@@ -91,4 +91,26 @@
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=andy-takker)
+<details>
+
+### 📊 Statistics
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andy-takker&theme=github">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andy-takker&theme=github">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andy-takker&theme=github"><br>
+    </p>
+</a>
+
+<p align="center">
+    <a href="https://wakatime.com/@andy_takker">
+      <img src="https://wakatime.com/badge/user/6f883645-1817-438d-bdeb-6b4000dfc9a5.svg">
+    </a>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=andy-takker&style=flat-square&label=Views"/>
+    </a>
+</p>
+
+
+</details>
