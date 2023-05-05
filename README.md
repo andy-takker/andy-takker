@@ -19,10 +19,10 @@
 
 ### 👨‍🏭 Currently Working On
 - [andy-takker/template_webapp](https://github.com/andy-takker/template_webapp) - Template for web app based on FastAPI, starlette_admin, sqlaclchemy and etc.
-- [andy-takker/mlops_meetup](https://github.com/andy-takker/mlops_meetup) - Project as example for several python version
 - [andy-takker/template_project](https://github.com/andy-takker/template_project) - Template project of blog on FastAPI, SqlAlchemy, Postgres, Docker, Nginx, Vue.js and etc.
 - [stackoverfollowers/truetechhack](https://github.com/stackoverfollowers/truetechhack) - Адаптация фильмов для людей с особыми потребностями. TRUE TECH HACK 2023
 - [andy-takker/ma_1_docker](https://github.com/andy-takker/ma_1_docker) - Homework #1 for Microservice Architechture
+- [python-of-the-brain/becoder_2022_qualifying](https://github.com/python-of-the-brain/becoder_2022_qualifying) - 
 
 
 ### 💼 Stack I'm Working With
