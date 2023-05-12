@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) -  an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/… 
+- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [mbuzdalov/latex-styles](https://github.com/mbuzdalov/latex-styles) - LaTeX styles for different purposes.
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
-- [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew &amp; games on your Android device!
-- [mailcourses/deep_python_spring_2023](https://github.com/mailcourses/deep_python_spring_2023) - Материалы курса Углубленный Python от VK Education, весна 2023
 
 
 ### 💻 Software
