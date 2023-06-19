@@ -22,7 +22,7 @@
 - [andy-takker/template_project](https://github.com/andy-takker/template_project) - Template project of blog on FastAPI, SqlAlchemy, Postgres, Docker, Nginx, Vue.js and etc.
 - [stackoverfollowers/truetechhack](https://github.com/stackoverfollowers/truetechhack) - Адаптация фильмов для людей с особыми потребностями. TRUE TECH HACK 2023
 - [andy-takker/ma_1_docker](https://github.com/andy-takker/ma_1_docker) - Homework #1 for Microservice Architechture
-- [python-of-the-brain/becoder_2022_qualifying](https://github.com/python-of-the-brain/becoder_2022_qualifying) - 
+- [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project) - 
 
 
 ### 💼 Stack I'm Working With
