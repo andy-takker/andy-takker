@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [andy-takker/task_2_resume](https://github.com/andy-takker/task_2_resume) - Test task for SkyPro from Sergey Natalenko
-- [andy-takker/template_project](https://github.com/andy-takker/template_project) - Template project of blog on FastAPI, SqlAlchemy, Postgres, Docker, Nginx, Vue.js and etc.
 - [stackoverfollowers/truetechhack](https://github.com/stackoverfollowers/truetechhack) - Адаптация фильмов для людей с особыми потребностями. TRUE TECH HACK 2023
 - [andy-takker/ma_1_docker](https://github.com/andy-takker/ma_1_docker) - Homework #1 for Microservice Architechture
+- [python-of-the-brain/becoder_2022_qualifying](https://github.com/python-of-the-brain/becoder_2022_qualifying) - 
 - [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project) - 
+- [andy-takker/Ecology-Bot-Improved](https://github.com/andy-takker/Ecology-Bot-Improved) - Telegram Bot with admin and dialogs. Based on aiogram, aiogram_dialogs, flask-admin, celery
 
 
 ### 💼 Stack I'm Working With
@@ -50,11 +50,10 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Add body field (test checking workflow)](https://github.com/andy-takker/template_project/pull/2) on [andy-takker/template_project](https://github.com/andy-takker/template_project)
-- [Remove deprecated router](https://github.com/andy-takker/template_project/pull/1) on [andy-takker/template_project](https://github.com/andy-takker/template_project)
 - [Change readme](https://github.com/stackoverfollowers/truetechhack/pull/2) on [stackoverfollowers/truetechhack](https://github.com/stackoverfollowers/truetechhack)
 - [Fix github action](https://github.com/andy-takker/test-accelerator-project/pull/10) on [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project)
 - [Fix github action](https://github.com/andy-takker/test-accelerator-project/pull/9) on [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project)
+- [Fix github action](https://github.com/andy-takker/test-accelerator-project/pull/8) on [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project)
 
 
 ### 💻 Stack I'm Currently Learning
