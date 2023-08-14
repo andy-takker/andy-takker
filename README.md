@@ -83,11 +83,11 @@
 ### ⭐ Recent Stars
 
 
+- [qwertyo1/tinkoff-trading-bot](https://github.com/qwertyo1/tinkoff-trading-bot) - This is a bot for trading on Tinkoff broker. It uses Tinkoff investments API
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [zserge/jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 
 
 ### 💻 Software
