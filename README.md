@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc) - Решение команды 404
 - [stackoverfollowers/finodays_openapi](https://github.com/stackoverfollowers/finodays_openapi) - 
 - [andy-takker/postgres_replic](https://github.com/andy-takker/postgres_replic) - Example of configuration database containers with replication
 - [stackoverfollowers/truetechhack](https://github.com/stackoverfollowers/truetechhack) - Адаптация фильмов для людей с особыми потребностями. TRUE TECH HACK 2023
 - [andy-takker/ma_1_docker](https://github.com/andy-takker/ma_1_docker) - Homework #1 for Microservice Architechture
-- [python-of-the-brain/becoder_2022_qualifying](https://github.com/python-of-the-brain/becoder_2022_qualifying) - 
 
 
 ### 💼 Stack I'm Working With
@@ -50,10 +50,10 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Initial commit develop](https://github.com/db-404-not-found/mfc/pull/1) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
 - [Change readme](https://github.com/stackoverfollowers/truetechhack/pull/2) on [stackoverfollowers/truetechhack](https://github.com/stackoverfollowers/truetechhack)
 - [Fix github action](https://github.com/andy-takker/test-accelerator-project/pull/10) on [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project)
 - [Fix github action](https://github.com/andy-takker/test-accelerator-project/pull/9) on [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project)
-- [Fix github action](https://github.com/andy-takker/test-accelerator-project/pull/8) on [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project)
 
 
 ### 💻 Stack I'm Currently Learning
