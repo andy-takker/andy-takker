@@ -50,10 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Master](https://github.com/db-404-not-found/mfc/pull/7) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
+- [Feature/final mods](https://github.com/db-404-not-found/mfc/pull/6) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
+- [Add frontend](https://github.com/db-404-not-found/mfc/pull/5) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
+- [Devops](https://github.com/db-404-not-found/mfc/pull/4) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
 - [Add README.md file](https://github.com/db-404-not-found/mfc/pull/3) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
-- [Add celery preprocess task](https://github.com/db-404-not-found/mfc/pull/2) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
-- [Initial commit develop](https://github.com/db-404-not-found/mfc/pull/1) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
-- [Change readme](https://github.com/stackoverfollowers/truetechhack/pull/2) on [stackoverfollowers/truetechhack](https://github.com/stackoverfollowers/truetechhack)
 
 
 ### 💻 Stack I'm Currently Learning
