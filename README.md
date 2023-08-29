@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc) - Решение команды 404
 - [it-prisma/tg_bot_for_consultations](https://github.com/it-prisma/tg_bot_for_consultations) - Telegram Bot for anonymous consultations
 - [stackoverfollowers/finodays_openapi](https://github.com/stackoverfollowers/finodays_openapi) - 
 - [andy-takker/postgres_replic](https://github.com/andy-takker/postgres_replic) - Example of configuration database containers with replication
-- [stackoverfollowers/truetechhack](https://github.com/stackoverfollowers/truetechhack) - Адаптация фильмов для людей с особыми потребностями. TRUE TECH HACK 2023
 
 
 ### 💼 Stack I'm Working With
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [#6 add pre commit file to project](https://github.com/andy-takker/organization_parser/pull/9) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 - [Master](https://github.com/db-404-not-found/mfc/pull/7) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
 - [Feature/final mods](https://github.com/db-404-not-found/mfc/pull/6) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
 - [Add frontend](https://github.com/db-404-not-found/mfc/pull/5) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
 - [Devops](https://github.com/db-404-not-found/mfc/pull/4) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
-- [Add README.md file](https://github.com/db-404-not-found/mfc/pull/3) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
 
 
 ### 💻 Stack I'm Currently Learning
