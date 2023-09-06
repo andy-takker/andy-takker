@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
 - [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc) - Решение команды 404
 - [it-prisma/tg_bot_for_consultations](https://github.com/it-prisma/tg_bot_for_consultations) - Telegram Bot for anonymous consultations
-- [stackoverfollowers/finodays_openapi](https://github.com/stackoverfollowers/finodays_openapi) - 
 
 
 ### 💼 Stack I'm Working With
