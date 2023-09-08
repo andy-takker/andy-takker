@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
+- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
 - [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc) - Решение команды 404
 - [it-prisma/tg_bot_for_consultations](https://github.com/it-prisma/tg_bot_for_consultations) - Telegram Bot for anonymous consultations
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Feature/issue 15](https://github.com/andy-takker/organization_parser/pull/16) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 - [#12 Add rye to project](https://github.com/andy-takker/organization_parser/pull/13) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 - [Feature/issue 7](https://github.com/andy-takker/organization_parser/pull/11) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 - [#6 Add pre-commit config file](https://github.com/andy-takker/organization_parser/pull/10) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 - [#6 add pre commit file to project](https://github.com/andy-takker/organization_parser/pull/9) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
-- [Master](https://github.com/db-404-not-found/mfc/pull/7) on [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc)
 
 
 ### 💻 Stack I'm Currently Learning
