@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Feature/issue 15](https://github.com/andy-takker/organization_parser/pull/16) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
-- [#12 Add rye to project](https://github.com/andy-takker/organization_parser/pull/13) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
-- [Feature/issue 7](https://github.com/andy-takker/organization_parser/pull/11) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
-- [#6 Add pre-commit config file](https://github.com/andy-takker/organization_parser/pull/10) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
-- [#6 add pre commit file to project](https://github.com/andy-takker/organization_parser/pull/9) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
+- [Fix release action](https://github.com/andy-takker/organization_parser/pull/21) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
+- [Release 0.1.1](https://github.com/andy-takker/organization_parser/pull/20) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
+- [Backport master -&gt; develop](https://github.com/andy-takker/organization_parser/pull/19) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
+- [Release 0.1.0](https://github.com/andy-takker/organization_parser/pull/18) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
+- [Fix readme.md](https://github.com/andy-takker/organization_parser/pull/17) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 
 
 ### 💻 Stack I'm Currently Learning
