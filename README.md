@@ -19,9 +19,9 @@
 
 ### 👨‍🏭 Currently Working On
 - [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer) - Text Press Release Analyzer for CBR
+- [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
-- [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
 - [db-404-not-found/mfc](https://github.com/db-404-not-found/mfc) - Решение команды 404
 
 
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Release 0.1.4](https://github.com/db-404-not-found/deep_dark_analyzer/pull/22) on [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer)
 - [Backport: master -&gt; develop](https://github.com/db-404-not-found/deep_dark_analyzer/pull/20) on [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer)
 - [Release 1.0.3](https://github.com/db-404-not-found/deep_dark_analyzer/pull/19) on [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer)
 - [Add sleep](https://github.com/db-404-not-found/deep_dark_analyzer/pull/18) on [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer)
 - [Backport: master -&gt; develop](https://github.com/db-404-not-found/deep_dark_analyzer/pull/17) on [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer)
-- [Release 1.0.1](https://github.com/db-404-not-found/deep_dark_analyzer/pull/16) on [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer)
 
 
 ### 💻 Stack I'm Currently Learning
