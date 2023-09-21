@@ -18,9 +18,9 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/google-api-service-helper](https://github.com/andy-takker/google-api-service-helper) - Helper for Google API
-- [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer) - Text Press Release Analyzer for CBR
 - [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
 
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add docker-compose.yaml](https://github.com/andy-takker/organization_parser/pull/31) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 - [Release 0.1.6](https://github.com/andy-takker/organization_parser/pull/30) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 - [Release 0.1.5](https://github.com/andy-takker/organization_parser/pull/29) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 - [Release 0.1.4](https://github.com/andy-takker/organization_parser/pull/28) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 - [Release 0.1.3](https://github.com/andy-takker/organization_parser/pull/27) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
-- [Backport: master -&gt; develop](https://github.com/andy-takker/organization_parser/pull/26) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 
 
 ### 💻 Stack I'm Currently Learning
