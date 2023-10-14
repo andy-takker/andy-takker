@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix flow model](https://github.com/Academy-A/lms/pull/3) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Add flow feature](https://github.com/Academy-A/lms/pull/2) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix enroll old student](https://github.com/Academy-A/lms/pull/1) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add docker-compose.yaml](https://github.com/andy-takker/organization_parser/pull/31) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 - [Release 0.1.6](https://github.com/andy-takker/organization_parser/pull/30) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
-- [Release 0.1.5](https://github.com/andy-takker/organization_parser/pull/29) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
-- [Release 0.1.4](https://github.com/andy-takker/organization_parser/pull/28) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 
 
 ### 💻 Stack I'm Currently Learning
@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [aiokitchen/aiomisc](https://github.com/aiokitchen/aiomisc) - aiomisc - miscellaneous utils for asyncio
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-- [qwertyo1/tinkoff-trading-bot](https://github.com/qwertyo1/tinkoff-trading-bot) - This is a bot for trading on Tinkoff broker. It uses Tinkoff investments API
 
 
 ### 💻 Software
