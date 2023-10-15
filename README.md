@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add github action and fix test](https://github.com/Academy-A/lms/pull/5) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix enroll and expulse with flows](https://github.com/Academy-A/lms/pull/4) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix flow model](https://github.com/Academy-A/lms/pull/3) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add flow feature](https://github.com/Academy-A/lms/pull/2) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix enroll old student](https://github.com/Academy-A/lms/pull/1) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Add docker-compose.yaml](https://github.com/andy-takker/organization_parser/pull/31) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
-- [Release 0.1.6](https://github.com/andy-takker/organization_parser/pull/30) on [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser)
 
 
 ### 💻 Stack I'm Currently Learning
