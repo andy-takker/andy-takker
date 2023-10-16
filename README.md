@@ -21,8 +21,8 @@
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [andy-takker/google-api-service-helper](https://github.com/andy-takker/google-api-service-helper) - Helper for Google API
-- [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
 - [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer) - Text Press Release Analyzer for CBR
+- [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
 
 
 ### 💼 Stack I'm Working With
