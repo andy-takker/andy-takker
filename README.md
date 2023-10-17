@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add cron task for subscription notify](https://github.com/Academy-A/lms/pull/6) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add github action and fix test](https://github.com/Academy-A/lms/pull/5) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix enroll and expulse with flows](https://github.com/Academy-A/lms/pull/4) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix flow model](https://github.com/Academy-A/lms/pull/3) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add flow feature](https://github.com/Academy-A/lms/pull/2) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix enroll old student](https://github.com/Academy-A/lms/pull/1) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
