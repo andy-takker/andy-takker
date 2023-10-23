@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Release 0.1.4](https://github.com/Academy-A/lms/pull/14) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix essays by subscription](https://github.com/Academy-A/lms/pull/13) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix Release: 0.2.0](https://github.com/Academy-A/lms/pull/12) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix workflow](https://github.com/Academy-A/lms/pull/11) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release: 0.2.0](https://github.com/Academy-A/lms/pull/10) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Add release workflow](https://github.com/Academy-A/lms/pull/9) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Add unit of work pattern and fix teacher grade](https://github.com/Academy-A/lms/pull/8) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
