@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Release 0.1.6](https://github.com/Academy-A/lms/pull/16) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[LMS-19] Distribution homeworks](https://github.com/Academy-A/lms/pull/15) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release 0.1.4](https://github.com/Academy-A/lms/pull/14) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix essays by subscription](https://github.com/Academy-A/lms/pull/13) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix Release: 0.2.0](https://github.com/Academy-A/lms/pull/12) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix workflow](https://github.com/Academy-A/lms/pull/11) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release: 0.2.0](https://github.com/Academy-A/lms/pull/10) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
