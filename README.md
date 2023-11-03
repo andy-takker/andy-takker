@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add sync_scroll](https://github.com/Tishka17/aiogram_dialog/pull/332) on [Tishka17/aiogram_dialog](https://github.com/Tishka17/aiogram_dialog)
 - [Release 0.1.9](https://github.com/Academy-A/lms/pull/21) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [[LMS-44] Add change teacher for student product](https://github.com/Academy-A/lms/pull/20) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release 0.1.8](https://github.com/Academy-A/lms/pull/19) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [[LMS-24] Feature/admin homepage](https://github.com/Academy-A/lms/pull/18) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[LMS-43] Fix expulse student to pair vk_id - product_id](https://github.com/Academy-A/lms/pull/17) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [MasterGroosha/aiogram-3-guide](https://github.com/MasterGroosha/aiogram-3-guide) - Пишем Telegram-ботов с aiogram 3.x
 - [Tishka17/deseos17](https://github.com/Tishka17/deseos17) - 
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [aiokitchen/aiomisc](https://github.com/aiokitchen/aiomisc) - aiomisc - miscellaneous utils for asyncio
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
 
 ### 💻 Software
