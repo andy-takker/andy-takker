@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette &amp; FastApi applications
 - [MasterGroosha/aiogram-3-guide](https://github.com/MasterGroosha/aiogram-3-guide) - Пишем Telegram-ботов с aiogram 3.x
 - [Tishka17/deseos17](https://github.com/Tishka17/deseos17) - 
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
-- [aiokitchen/aiomisc](https://github.com/aiokitchen/aiomisc) - aiomisc - miscellaneous utils for asyncio
 
 
 ### 💻 Software
