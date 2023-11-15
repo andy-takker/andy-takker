@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
+- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [andy-takker/google-api-service-helper](https://github.com/andy-takker/google-api-service-helper) - Helper for Google API
 - [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer) - Text Press Release Analyzer for CBR
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Release 0.2.0](https://github.com/andy-takker/inclusive_dance_bot/pull/2) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [Feature/admin menu](https://github.com/andy-takker/inclusive_dance_bot/pull/1) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 - [Add sync_scroll](https://github.com/Tishka17/aiogram_dialog/pull/332) on [Tishka17/aiogram_dialog](https://github.com/Tishka17/aiogram_dialog)
 - [Release 0.1.9](https://github.com/Academy-A/lms/pull/21) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [[LMS-44] Add change teacher for student product](https://github.com/Academy-A/lms/pull/20) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 0.1.8](https://github.com/Academy-A/lms/pull/19) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[LMS-24] Feature/admin homepage](https://github.com/Academy-A/lms/pull/18) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
