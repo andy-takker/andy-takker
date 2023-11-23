@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add release workflow](https://github.com/andy-takker/inclusive_dance_bot/pull/3) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 - [Release 0.2.0](https://github.com/andy-takker/inclusive_dance_bot/pull/2) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 - [Feature/admin menu](https://github.com/andy-takker/inclusive_dance_bot/pull/1) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 - [Add sync_scroll](https://github.com/Tishka17/aiogram_dialog/pull/332) on [Tishka17/aiogram_dialog](https://github.com/Tishka17/aiogram_dialog)
 - [Release 0.1.9](https://github.com/Academy-A/lms/pull/21) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[LMS-44] Add change teacher for student product](https://github.com/Academy-A/lms/pull/20) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
