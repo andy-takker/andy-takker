@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Develop](https://github.com/andy-takker/inclusive_dance_bot/pull/10) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [Fix docker building](https://github.com/andy-takker/inclusive_dance_bot/pull/9) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [Release 0.1.0](https://github.com/andy-takker/inclusive_dance_bot/pull/8) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [Fix docker building](https://github.com/andy-takker/inclusive_dance_bot/pull/7) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 - [Release 0.2.1](https://github.com/andy-takker/inclusive_dance_bot/pull/6) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Fix worflow](https://github.com/andy-takker/inclusive_dance_bot/pull/5) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [New release 0.2.0](https://github.com/andy-takker/inclusive_dance_bot/pull/4) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Add release workflow](https://github.com/andy-takker/inclusive_dance_bot/pull/3) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Release 0.2.0](https://github.com/andy-takker/inclusive_dance_bot/pull/2) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 
 
 ### 💻 Stack I'm Currently Learning
