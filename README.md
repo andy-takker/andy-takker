@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
+- [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [andy-takker/google-api-service-helper](https://github.com/andy-takker/google-api-service-helper) - Helper for Google API
 - [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer) - Text Press Release Analyzer for CBR
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Develop](https://github.com/andy-takker/inclusive_dance_bot/pull/10) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Fix docker building](https://github.com/andy-takker/inclusive_dance_bot/pull/9) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Release 0.1.0](https://github.com/andy-takker/inclusive_dance_bot/pull/8) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Fix docker building](https://github.com/andy-takker/inclusive_dance_bot/pull/7) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Release 0.2.1](https://github.com/andy-takker/inclusive_dance_bot/pull/6) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [Release 0.1.4](https://github.com/Academy-A/lms/pull/29) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[LMS-48] Fix cron job and etc](https://github.com/Academy-A/lms/pull/28) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 0.1.3](https://github.com/Academy-A/lms/pull/27) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[LMS-48] Fix cron job and etc](https://github.com/Academy-A/lms/pull/26) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 1.2.0](https://github.com/Academy-A/lms/pull/25) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
