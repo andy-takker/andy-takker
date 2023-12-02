@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Release 0.1.4](https://github.com/Academy-A/lms/pull/29) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[LMS-48] Fix cron job and etc](https://github.com/Academy-A/lms/pull/28) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 0.1.3](https://github.com/Academy-A/lms/pull/27) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[LMS-48] Fix cron job and etc](https://github.com/Academy-A/lms/pull/26) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 1.2.0](https://github.com/Academy-A/lms/pull/25) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 2.0.3](https://github.com/Academy-A/lms/pull/35) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix teacher product stats](https://github.com/Academy-A/lms/pull/34) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 2.0.2](https://github.com/Academy-A/lms/pull/33) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[LMS-50]](https://github.com/Academy-A/lms/pull/32) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 2.0.1](https://github.com/Academy-A/lms/pull/31) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
