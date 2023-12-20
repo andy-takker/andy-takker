@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
+- [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [andy-takker/google-api-service-helper](https://github.com/andy-takker/google-api-service-helper) - Helper for Google API
 - [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer) - Text Press Release Analyzer for CBR
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Update release workflows](https://github.com/andy-takker/inclusive_dance_bot/pull/16) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Update workflows](https://github.com/andy-takker/inclusive_dance_bot/pull/15) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Backport](https://github.com/andy-takker/inclusive_dance_bot/pull/14) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Update workflows](https://github.com/andy-takker/inclusive_dance_bot/pull/13) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Release 0.9.8](https://github.com/andy-takker/inclusive_dance_bot/pull/12) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [Release: 1.9.3](https://github.com/Academy-A/lms/pull/42) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix schema](https://github.com/Academy-A/lms/pull/41) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release: 1.9.1](https://github.com/Academy-A/lms/pull/40) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[LMS-52] Fix dockerfile](https://github.com/Academy-A/lms/pull/39) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release: 0.1.9](https://github.com/Academy-A/lms/pull/38) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
