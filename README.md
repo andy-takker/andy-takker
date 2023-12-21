@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Release: 1.9.3](https://github.com/Academy-A/lms/pull/44) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[LMS-52] Fix autopilot sending](https://github.com/Academy-A/lms/pull/43) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release: 1.9.3](https://github.com/Academy-A/lms/pull/42) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix schema](https://github.com/Academy-A/lms/pull/41) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release: 1.9.1](https://github.com/Academy-A/lms/pull/40) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[LMS-52] Fix dockerfile](https://github.com/Academy-A/lms/pull/39) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release: 0.1.9](https://github.com/Academy-A/lms/pull/38) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
