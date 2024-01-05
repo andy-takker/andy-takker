@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
+- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [andy-takker/google-api-service-helper](https://github.com/andy-takker/google-api-service-helper) - Helper for Google API
 - [db-404-not-found/deep_dark_analyzer](https://github.com/db-404-not-found/deep_dark_analyzer) - Text Press Release Analyzer for CBR
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Release: 1.9.3](https://github.com/Academy-A/lms/pull/44) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[LMS-52] Fix autopilot sending](https://github.com/Academy-A/lms/pull/43) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release: 1.9.3](https://github.com/Academy-A/lms/pull/42) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix schema](https://github.com/Academy-A/lms/pull/41) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release: 1.9.1](https://github.com/Academy-A/lms/pull/40) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release v1.0.2](https://github.com/andy-takker/inclusive_dance_bot/pull/22) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [[IDB-10] Fix docker files](https://github.com/andy-takker/inclusive_dance_bot/pull/21) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [Release v1.0.1](https://github.com/andy-takker/inclusive_dance_bot/pull/20) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [[IDB-10] Fix docker files](https://github.com/andy-takker/inclusive_dance_bot/pull/19) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [Release v1.0.0](https://github.com/andy-takker/inclusive_dance_bot/pull/18) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 
 
 ### 💻 Stack I'm Currently Learning
