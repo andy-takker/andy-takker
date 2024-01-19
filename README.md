@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [[LMS-51] Update distribution](https://github.com/Academy-A/lms/pull/45) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release 1.3.1](https://github.com/andy-takker/inclusive_dance_bot/pull/24) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 - [Fix mailings](https://github.com/andy-takker/inclusive_dance_bot/pull/23) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 - [Release v1.0.2](https://github.com/andy-takker/inclusive_dance_bot/pull/22) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 - [[IDB-10] Fix docker files](https://github.com/andy-takker/inclusive_dance_bot/pull/21) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Release v1.0.1](https://github.com/andy-takker/inclusive_dance_bot/pull/20) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
 
 
 ### 💻 Stack I'm Currently Learning
