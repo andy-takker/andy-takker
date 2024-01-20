@@ -18,9 +18,9 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
 - [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
-- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 - [andy-takker/google-api-service-helper](https://github.com/andy-takker/google-api-service-helper) - Helper for Google API
 
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [[LMS-51] Update distribution](https://github.com/Academy-A/lms/pull/45) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 1.3.1](https://github.com/andy-takker/inclusive_dance_bot/pull/24) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Fix mailings](https://github.com/andy-takker/inclusive_dance_bot/pull/23) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [Release v1.0.2](https://github.com/andy-takker/inclusive_dance_bot/pull/22) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
-- [[IDB-10] Fix docker files](https://github.com/andy-takker/inclusive_dance_bot/pull/21) on [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot)
+- [Release 0.1.9](https://github.com/Academy-A/lms/pull/52) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[LMS-53] Add distribution table](https://github.com/Academy-A/lms/pull/51) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 0.1.6](https://github.com/Academy-A/lms/pull/50) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[LMS-51] Update env.dev and docker compose config](https://github.com/Academy-A/lms/pull/49) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 0.1.5](https://github.com/Academy-A/lms/pull/48) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
