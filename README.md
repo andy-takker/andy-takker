@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
 - [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette &amp; FastApi applications
 - [MasterGroosha/aiogram-3-guide](https://github.com/MasterGroosha/aiogram-3-guide) - Пишем Telegram-ботов с aiogram 3.x
 - [Tishka17/deseos17](https://github.com/Tishka17/deseos17) - 
-- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 
 
 ### 💻 Software
