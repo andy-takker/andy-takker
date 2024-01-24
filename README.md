@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Release 0.2.1](https://github.com/Academy-A/lms/pull/56) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[LMS-46] Update dockerfile](https://github.com/Academy-A/lms/pull/55) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 2.0](https://github.com/Academy-A/lms/pull/54) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[LMS-46] Add prototype of form distribution](https://github.com/Academy-A/lms/pull/53) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release 0.1.9](https://github.com/Academy-A/lms/pull/52) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[LMS-53] Add distribution table](https://github.com/Academy-A/lms/pull/51) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 0.1.6](https://github.com/Academy-A/lms/pull/50) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[LMS-51] Update env.dev and docker compose config](https://github.com/Academy-A/lms/pull/49) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 0.1.5](https://github.com/Academy-A/lms/pull/48) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
