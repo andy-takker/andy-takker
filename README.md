@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Release 0.2.2](https://github.com/Academy-A/lms/pull/60) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[FIX] notifications](https://github.com/Academy-A/lms/pull/59) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Backport](https://github.com/Academy-A/lms/pull/58) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add safety expulse](https://github.com/Academy-A/lms/pull/57) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release 0.2.1](https://github.com/Academy-A/lms/pull/56) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[LMS-46] Update dockerfile](https://github.com/Academy-A/lms/pull/55) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 2.0](https://github.com/Academy-A/lms/pull/54) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
