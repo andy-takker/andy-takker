@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix post URL](https://github.com/Academy-A/lms/pull/76) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix post URL](https://github.com/Academy-A/lms/pull/75) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 0.2.9](https://github.com/Academy-A/lms/pull/74) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix post URL](https://github.com/Academy-A/lms/pull/73) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release 0.2.8](https://github.com/Academy-A/lms/pull/72) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix reviwer table and distribution logic](https://github.com/Academy-A/lms/pull/71) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Add docs](https://github.com/The-Galley/vk_parser/pull/1) on [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser)
-- [Release 0.2.7](https://github.com/Academy-A/lms/pull/70) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [fix subject update](https://github.com/Academy-A/lms/pull/69) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
