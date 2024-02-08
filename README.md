@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
+- [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
 - [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
 - [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Fix post URL](https://github.com/Academy-A/lms/pull/76) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix post URL](https://github.com/Academy-A/lms/pull/75) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 0.2.9](https://github.com/Academy-A/lms/pull/74) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix post URL](https://github.com/Academy-A/lms/pull/73) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 0.2.8](https://github.com/Academy-A/lms/pull/72) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 0.2.10](https://github.com/Academy-A/lms/pull/81) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix enroll](https://github.com/Academy-A/lms/pull/80) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 0.2.9](https://github.com/Academy-A/lms/pull/79) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix enroll](https://github.com/Academy-A/lms/pull/78) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Backport](https://github.com/Academy-A/lms/pull/77) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
