@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Release 0.2.10](https://github.com/Academy-A/lms/pull/81) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix enroll](https://github.com/Academy-A/lms/pull/80) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 0.2.9](https://github.com/Academy-A/lms/pull/79) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix enroll](https://github.com/Academy-A/lms/pull/78) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Backport](https://github.com/Academy-A/lms/pull/77) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Backport](https://github.com/Academy-A/lms/pull/87) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix admin view - reviewer](https://github.com/Academy-A/lms/pull/86) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Backport](https://github.com/Academy-A/lms/pull/85) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix admin view - reviewer](https://github.com/Academy-A/lms/pull/84) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Backport](https://github.com/Academy-A/lms/pull/83) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
