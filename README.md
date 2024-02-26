@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Release 0.3.1](https://github.com/Academy-A/lms/pull/94) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[NTASK-68] Admin fixes](https://github.com/Academy-A/lms/pull/93) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 0.3.0](https://github.com/Academy-A/lms/pull/92) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[NTASK-66] Update formula](https://github.com/Academy-A/lms/pull/91) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [[NTASK-66] Change admin lib](https://github.com/Academy-A/lms/pull/90) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 0.2.11](https://github.com/Academy-A/lms/pull/89) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[NTASK-65] Update admin](https://github.com/Academy-A/lms/pull/88) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Backport](https://github.com/Academy-A/lms/pull/87) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix admin view - reviewer](https://github.com/Academy-A/lms/pull/86) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
