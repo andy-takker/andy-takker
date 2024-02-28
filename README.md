@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
+- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
 - [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
 - [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
