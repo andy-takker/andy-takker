@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
 - [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
 - [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
-- [andy-takker/organization_parser](https://github.com/andy-takker/organization_parser) - Simple parser for searching by company on maps
 
 
 ### 💼 Stack I'm Working With
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add nginx config](https://github.com/The-Galley/industry_game/pull/1) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 - [Release 0.3.1](https://github.com/Academy-A/lms/pull/94) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [[NTASK-68] Admin fixes](https://github.com/Academy-A/lms/pull/93) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release 0.3.0](https://github.com/Academy-A/lms/pull/92) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [[NTASK-66] Update formula](https://github.com/Academy-A/lms/pull/91) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[NTASK-66] Change admin lib](https://github.com/Academy-A/lms/pull/90) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
