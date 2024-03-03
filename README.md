@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
+- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
 - [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
 - [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Release 0.3..1](https://github.com/Academy-A/lms/pull/96) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[NTASK-69] Fix tests](https://github.com/Academy-A/lms/pull/95) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Add nginx config](https://github.com/The-Galley/industry_game/pull/1) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
-- [Release 0.3.1](https://github.com/Academy-A/lms/pull/94) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[NTASK-68] Admin fixes](https://github.com/Academy-A/lms/pull/93) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix lobby](https://github.com/The-Galley/industry_game/pull/8) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
+- [Release 0.2.2](https://github.com/The-Galley/industry_game/pull/7) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
+- [Fix create game](https://github.com/The-Galley/industry_game/pull/6) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
+- [Release 0.2.1](https://github.com/The-Galley/industry_game/pull/5) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
+- [Feature/workflows](https://github.com/The-Galley/industry_game/pull/4) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 
 
 ### 💻 Stack I'm Currently Learning
