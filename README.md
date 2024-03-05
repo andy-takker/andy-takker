@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Release 0.3.0](https://github.com/The-Galley/industry_game/pull/10) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 - [Fix lobby](https://github.com/The-Galley/industry_game/pull/8) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 - [Release 0.2.2](https://github.com/The-Galley/industry_game/pull/7) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 - [Fix create game](https://github.com/The-Galley/industry_game/pull/6) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 - [Release 0.2.1](https://github.com/The-Galley/industry_game/pull/5) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
-- [Feature/workflows](https://github.com/The-Galley/industry_game/pull/4) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 
 
 ### 💻 Stack I'm Currently Learning
