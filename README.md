@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/Hack-Template](https://github.com/andy-takker/Hack-Template) - Mega template for hackathons
 - [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
 - [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
-- [andy-takker/tracker_bot](https://github.com/andy-takker/tracker_bot) - Chat bot for tracking the waste of your time during working hours
 
 
 ### 💼 Stack I'm Working With
