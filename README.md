@@ -18,7 +18,7 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [andy-takker/Hack-Template](https://github.com/andy-takker/Hack-Template) - Mega template for hackathons
+- [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template) - Mega template for hackathons
 - [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
