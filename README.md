@@ -18,9 +18,9 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template) - Mega template for hackathons
 - [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
-- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
 - [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
 
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [[NTASK-69] Fix tests](https://github.com/Academy-A/lms/pull/97) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Mini fixes](https://github.com/The-Galley/industry_game/pull/11) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
-- [Release 0.3.0](https://github.com/The-Galley/industry_game/pull/10) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
-- [Fix lobby](https://github.com/The-Galley/industry_game/pull/8) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
-- [Release 0.2.2](https://github.com/The-Galley/industry_game/pull/7) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
+- [Release 0.3.1](https://github.com/Academy-A/lms/pull/103) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[NTASK-71] Add additional chekings](https://github.com/Academy-A/lms/pull/102) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 0.2.5](https://github.com/Academy-A/lms/pull/101) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[NTASK-71] Add additional chekings](https://github.com/Academy-A/lms/pull/100) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 0.2.4](https://github.com/Academy-A/lms/pull/99) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [mosquito/argclass](https://github.com/mosquito/argclass) - A wrapper around the standard argparse module that allows you to describe argument parsers declaratively
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
 
 ### 💻 Software
