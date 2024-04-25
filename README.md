@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add docker, ci/cd  and etc.](https://github.com/stackoverfollowers/Hack-Template/pull/2) on [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template)
 - [Add telegram bot service](https://github.com/stackoverfollowers/Hack-Template/pull/1) on [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template)
 - [Release 0.3.1](https://github.com/Academy-A/lms/pull/103) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [[NTASK-71] Add additional chekings](https://github.com/Academy-A/lms/pull/102) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release 0.2.5](https://github.com/Academy-A/lms/pull/101) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[NTASK-71] Add additional chekings](https://github.com/Academy-A/lms/pull/100) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
