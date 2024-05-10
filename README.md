@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template) - Mega template for hackathons
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
+- [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template) - Mega template for hackathons
 - [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
 - [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
 - [andy-takker/inclusive_dance_bot](https://github.com/andy-takker/inclusive_dance_bot) - Telegram bot for https://inclusive-dance.ru/
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add logging](https://github.com/Academy-A/lms/pull/105) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Add logging](https://github.com/Academy-A/lms/pull/104) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add docker, ci/cd  and etc.](https://github.com/stackoverfollowers/Hack-Template/pull/2) on [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template)
 - [Add telegram bot service](https://github.com/stackoverfollowers/Hack-Template/pull/1) on [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template)
 - [Release 0.3.1](https://github.com/Academy-A/lms/pull/103) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[NTASK-71] Add additional chekings](https://github.com/Academy-A/lms/pull/102) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 0.2.5](https://github.com/Academy-A/lms/pull/101) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
