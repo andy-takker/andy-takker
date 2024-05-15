@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Feature/to fastapi](https://github.com/The-Galley/industry_game/pull/13) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 - [Fix env](https://github.com/The-Galley/industry_game/pull/12) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 - [Add logging](https://github.com/Academy-A/lms/pull/105) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add logging](https://github.com/Academy-A/lms/pull/104) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add docker, ci/cd  and etc.](https://github.com/stackoverfollowers/Hack-Template/pull/2) on [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template)
-- [Add telegram bot service](https://github.com/stackoverfollowers/Hack-Template/pull/1) on [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template)
 
 
 ### 💻 Stack I'm Currently Learning
