@@ -18,9 +18,9 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
 - [stackoverfollowers/true-tech-hack-2024](https://github.com/stackoverfollowers/true-tech-hack-2024) - Не грози южному Python
-- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template) - Mega template for hackathons
 - [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
 
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Release 1.2.5](https://github.com/Academy-A/lms/pull/107) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[NTASK-73] Add new dashboard](https://github.com/Academy-A/lms/pull/106) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Feature/to fastapi](https://github.com/The-Galley/industry_game/pull/13) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 - [Fix env](https://github.com/The-Galley/industry_game/pull/12) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 - [Add logging](https://github.com/Academy-A/lms/pull/105) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Add logging](https://github.com/Academy-A/lms/pull/104) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Add docker, ci/cd  and etc.](https://github.com/stackoverfollowers/Hack-Template/pull/2) on [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template)
 
 
 ### 💻 Stack I'm Currently Learning
