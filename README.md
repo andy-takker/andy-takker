@@ -20,7 +20,7 @@
 ### 👨‍🏭 Currently Working On
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
-- [stackoverfollowers/true-tech-hack-2024](https://github.com/stackoverfollowers/true-tech-hack-2024) - Не грози южному Python
+- [stackoverfollowers/true-tech-hack-2024](https://github.com/stackoverfollowers/true-tech-hack-2024) - Трек «Улучшение клиентского опыта витрины МТС Live для пользователей с особыми потребностями»
 - [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template) - Mega template for hackathons
 - [The-Galley/vk_parser](https://github.com/The-Galley/vk_parser) - User parsers from VK group
 
