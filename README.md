@@ -53,8 +53,6 @@
 - [Release 1.2.5](https://github.com/Academy-A/lms/pull/107) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [[NTASK-73] Add new dashboard](https://github.com/Academy-A/lms/pull/106) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Feature/to fastapi](https://github.com/The-Galley/industry_game/pull/13) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
-- [Fix env](https://github.com/The-Galley/industry_game/pull/12) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
-- [Add logging](https://github.com/Academy-A/lms/pull/105) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
