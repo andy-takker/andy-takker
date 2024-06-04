@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [andy-takker/black-butler](https://github.com/andy-takker/black-butler) - Automation of work with a webcam and smart home indicators based on Alice
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
+- [andy-takker/black-butler](https://github.com/andy-takker/black-butler) - Automation of work with a webcam and smart home indicators based on Alice
 - [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
 - [stackoverfollowers/true-tech-hack-2024](https://github.com/stackoverfollowers/true-tech-hack-2024) - Трек «Улучшение клиентского опыта витрины МТС Live для пользователей с особыми потребностями»
 - [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template) - Mega template for hackathons
@@ -50,9 +50,9 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Release 1.2.5](https://github.com/Academy-A/lms/pull/107) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[NTASK-73] Add new dashboard](https://github.com/Academy-A/lms/pull/106) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Feature/to fastapi](https://github.com/The-Galley/industry_game/pull/13) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
+- [Fix env args](https://github.com/Academy-A/lms/pull/110) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 0.2.19](https://github.com/Academy-A/lms/pull/109) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Fix transactions](https://github.com/Academy-A/lms/pull/108) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
