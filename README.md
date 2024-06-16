@@ -82,11 +82,11 @@
 ### ⭐ Recent Stars
 
 
+- [authlib/example-oauth2-server](https://github.com/authlib/example-oauth2-server) - Example for OAuth 2 Server for Authlib.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [mosquito/argclass](https://github.com/mosquito/argclass) - A wrapper around the standard argparse module that allows you to describe argument parsers declaratively
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 
 
 ### 💻 Software
