@@ -53,6 +53,8 @@
 - [Fix env args](https://github.com/Academy-A/lms/pull/110) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Release 0.2.19](https://github.com/Academy-A/lms/pull/109) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix transactions](https://github.com/Academy-A/lms/pull/108) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Release 1.2.5](https://github.com/Academy-A/lms/pull/107) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [[NTASK-73] Add new dashboard](https://github.com/Academy-A/lms/pull/106) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
