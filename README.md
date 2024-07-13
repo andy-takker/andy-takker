@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [reagento/dishka](https://github.com/reagento/dishka) - Cute DI framework with agreeable API and everything you need
 - [authlib/example-oauth2-server](https://github.com/authlib/example-oauth2-server) - Example for OAuth 2 Server for Authlib.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [mosquito/argclass](https://github.com/mosquito/argclass) - A wrapper around the standard argparse module that allows you to describe argument parsers declaratively
-- [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 
 
 ### 💻 Software
