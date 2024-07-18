@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client) - Typical HTTP Client based on aiohttp
 - [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/black-butler](https://github.com/andy-takker/black-butler) - Automation of work with a webcam and smart home indicators based on Alice
 - [stackoverfollowers/true-tech-hack-2024](https://github.com/stackoverfollowers/true-tech-hack-2024) - Трек «Улучшение клиентского опыта витрины МТС Live для пользователей с особыми потребностями»
-- [stackoverfollowers/Hack-Template](https://github.com/stackoverfollowers/Hack-Template) - Mega template for hackathons
 
 
 ### 💼 Stack I'm Working With
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add instructions in README](https://github.com/andy-takker/base_http_client/pull/6) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
+- [Add CI workflow action](https://github.com/andy-takker/base_http_client/pull/5) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
+- [[Feature] Add readme.rst](https://github.com/andy-takker/base_http_client/pull/1) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
 - [Feature/buildings](https://github.com/The-Galley/industry_game/pull/14) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
 - [Fix env args](https://github.com/Academy-A/lms/pull/110) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 0.2.19](https://github.com/Academy-A/lms/pull/109) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix transactions](https://github.com/Academy-A/lms/pull/108) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Release 1.2.5](https://github.com/Academy-A/lms/pull/107) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
