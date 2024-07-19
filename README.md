@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add mock service](https://github.com/andy-takker/base_http_client/pull/7) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
 - [Add instructions in README](https://github.com/andy-takker/base_http_client/pull/6) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
 - [Add CI workflow action](https://github.com/andy-takker/base_http_client/pull/5) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
 - [[Feature] Add readme.rst](https://github.com/andy-takker/base_http_client/pull/1) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
 - [Feature/buildings](https://github.com/The-Galley/industry_game/pull/14) on [The-Galley/industry_game](https://github.com/The-Galley/industry_game)
-- [Fix env args](https://github.com/Academy-A/lms/pull/110) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [reagento/adaptix](https://github.com/reagento/adaptix) - An extremely flexible and configurable data model conversion library.
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [reagento/dishka](https://github.com/reagento/dishka) - Cute DI framework with agreeable API and everything you need
 - [authlib/example-oauth2-server](https://github.com/authlib/example-oauth2-server) - Example for OAuth 2 Server for Authlib.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-- [mosquito/argclass](https://github.com/mosquito/argclass) - A wrapper around the standard argparse module that allows you to describe argument parsers declaratively
 
 
 ### 💻 Software
