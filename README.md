@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
 - [reagento/adaptix](https://github.com/reagento/adaptix) - An extremely flexible and configurable data model conversion library.
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [reagento/dishka](https://github.com/reagento/dishka) - Cute DI framework with agreeable API and everything you need
-- [authlib/example-oauth2-server](https://github.com/authlib/example-oauth2-server) - Example for OAuth 2 Server for Authlib.
 
 
 ### 💻 Software
