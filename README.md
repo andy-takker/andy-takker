@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/hack_template](https://github.com/andy-takker/hack_template) - Yet another template for web services
 - [NEROTEX-Team/digital-hack-video-markup](https://github.com/NEROTEX-Team/digital-hack-video-markup) - Digital-hack video markup
 - [andy-takker/dotfiles](https://github.com/andy-takker/dotfiles) - dotfiles for the developer happiness: git, nvim, zsh, vscode, codespaces, python
 - [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client) - Typical HTTP Client based on aiohttp
 - [The-Galley/industry_game](https://github.com/The-Galley/industry_game) - Meta game &#34;Industry&#34;
-- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 
 
 ### 💼 Stack I'm Working With
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add check workflow](https://github.com/andy-takker/hack_template/pull/1) on [andy-takker/hack_template](https://github.com/andy-takker/hack_template)
 - [Feature/rest](https://github.com/NEROTEX-Team/digital-hack-video-markup/pull/3) on [NEROTEX-Team/digital-hack-video-markup](https://github.com/NEROTEX-Team/digital-hack-video-markup)
 - [Add template](https://github.com/NEROTEX-Team/digital-hack-video-markup/pull/2) on [NEROTEX-Team/digital-hack-video-markup](https://github.com/NEROTEX-Team/digital-hack-video-markup)
 - [Add arch and db schemas](https://github.com/NEROTEX-Team/digital-hack-video-markup/pull/1) on [NEROTEX-Team/digital-hack-video-markup](https://github.com/NEROTEX-Team/digital-hack-video-markup)
 - [Add mock service](https://github.com/andy-takker/base_http_client/pull/7) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
-- [Add instructions in README](https://github.com/andy-takker/base_http_client/pull/6) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
 
 
 ### 💻 Stack I'm Currently Learning
@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [donBarbos/telegram-bot-template](https://github.com/donBarbos/telegram-bot-template) - 🤖 Template for telegram bot using postgres, pgbouncer, redis, docker, amplitude, prometheus, grafana, CI
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
 
 
 ### 💻 Software
