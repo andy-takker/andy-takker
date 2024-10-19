@@ -84,7 +84,7 @@
 ### ⭐ Recent Stars
 
 
-- [donBarbos/telegram-bot-template](https://github.com/donBarbos/telegram-bot-template) - 🤖 Template for telegram bot using postgres, pgbouncer, redis, docker, amplitude, prometheus, grafana, CI
+- [donBarbos/telegram-bot-template](https://github.com/donBarbos/telegram-bot-template) - 🤖 Template for telegram bot using postgres, pgbouncer, redis, docker, amplitude, prometheus, grafana, CI with admin panel
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
