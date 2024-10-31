@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/microservice_architecture_homeworks](https://github.com/andy-takker/microservice_architecture_homeworks) - Homeworks from course &#34;Microservice Architecture&#34;
 - [andy-takker/test-accelerator-project](https://github.com/andy-takker/test-accelerator-project) - 
 - [andy-takker/hack_template](https://github.com/andy-takker/hack_template) - Yet another template for web services
 - [NEROTEX-Team/digital-hack-video-markup](https://github.com/NEROTEX-Team/digital-hack-video-markup) - Digital-hack video markup
 - [andy-takker/dotfiles](https://github.com/andy-takker/dotfiles) - dotfiles for the developer happiness: git, nvim, zsh, vscode, codespaces, python
-- [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client) - Typical HTTP Client based on aiohttp
 
 
 ### 💼 Stack I'm Working With
