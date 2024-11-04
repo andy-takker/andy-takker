@@ -18,7 +18,7 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client) - Typical HTTP Client based on aiohttp
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [andy-takker/microservice_architecture_homeworks](https://github.com/andy-takker/microservice_architecture_homeworks) - Homeworks from course &#34;Microservice Architecture&#34;
 - [andy-takker/hack_template](https://github.com/andy-takker/hack_template) - Yet another template for web services
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [Fix list of methods](https://github.com/andy-takker/base_http_client/pull/13) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
-- [Refactor jobs and workflows](https://github.com/andy-takker/base_http_client/pull/10) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
-- [Add build and publish workflow](https://github.com/andy-takker/base_http_client/pull/9) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
-- [Update check workflow](https://github.com/andy-takker/base_http_client/pull/8) on [andy-takker/base_http_client](https://github.com/andy-takker/base_http_client)
-- [Add book routes](https://github.com/andy-takker/example-web-service/pull/11) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
+- [Add tests and minor fixes](https://github.com/andy-takker/asyncly/pull/15) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
+- [Add example for base_http_client](https://github.com/andy-takker/asyncly/pull/14) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
+- [Fix list of methods](https://github.com/andy-takker/asyncly/pull/13) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
+- [Refactor jobs and workflows](https://github.com/andy-takker/asyncly/pull/10) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
+- [Add build and publish workflow](https://github.com/andy-takker/asyncly/pull/9) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### 💻 Stack I'm Currently Learning
