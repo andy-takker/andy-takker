@@ -19,10 +19,10 @@
 
 ### 👨‍🏭 Currently Working On
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
+- [andy-takker/two-wings-bot](https://github.com/andy-takker/two-wings-bot) - Asynchronous telegram bot with custom admin panel
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [andy-takker/microservice_architecture_homeworks](https://github.com/andy-takker/microservice_architecture_homeworks) - Homeworks from course &#34;Microservice Architecture&#34;
 - [andy-takker/hack_template](https://github.com/andy-takker/hack_template) - Yet another template for web services
-- [NEROTEX-Team/digital-hack-video-markup](https://github.com/NEROTEX-Team/digital-hack-video-markup) - Digital-hack video markup
 
 
 ### 💼 Stack I'm Working With
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add service template](https://github.com/andy-takker/two-wings-bot/pull/1) on [andy-takker/two-wings-bot](https://github.com/andy-takker/two-wings-bot)
 - [Add tests and minor fixes](https://github.com/andy-takker/asyncly/pull/15) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Add example for base_http_client](https://github.com/andy-takker/asyncly/pull/14) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Fix list of methods](https://github.com/andy-takker/asyncly/pull/13) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Refactor jobs and workflows](https://github.com/andy-takker/asyncly/pull/10) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [Add build and publish workflow](https://github.com/andy-takker/asyncly/pull/9) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### 💻 Stack I'm Currently Learning
@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
 - [donBarbos/telegram-bot-template](https://github.com/donBarbos/telegram-bot-template) - 🤖 Template for telegram bot using postgres, pgbouncer, redis, docker, amplitude, prometheus, grafana, CI with admin panel
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 
 ### 💻 Software
