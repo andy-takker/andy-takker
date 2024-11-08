@@ -54,7 +54,6 @@
 - [Add service template](https://github.com/andy-takker/two-wings-bot/pull/1) on [andy-takker/two-wings-bot](https://github.com/andy-takker/two-wings-bot)
 - [Add tests and minor fixes](https://github.com/andy-takker/asyncly/pull/15) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Add example for base_http_client](https://github.com/andy-takker/asyncly/pull/14) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [Fix list of methods](https://github.com/andy-takker/asyncly/pull/13) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### 💻 Stack I'm Currently Learning
