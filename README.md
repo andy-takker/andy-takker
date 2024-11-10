@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc) - 
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [andy-takker/ecology-bot](https://github.com/andy-takker/ecology-bot) - Telegram Bot with admin and dialogs. Based on aiogram, aiogram_dialogs, flask-admin, celery
-- [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc) - 
-- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/two-wings-bot](https://github.com/andy-takker/two-wings-bot) - Asynchronous telegram bot with custom admin panel
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 
 
 ### 💼 Stack I'm Working With
@@ -50,10 +50,10 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add workflows and readme updates](https://github.com/andy-takker/example-web-service/pull/13) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 - [Add user routes](https://github.com/andy-takker/example-web-service/pull/12) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 - [Micro fix](https://github.com/andy-takker/ecology-bot/pull/1) on [andy-takker/ecology-bot](https://github.com/andy-takker/ecology-bot)
 - [Add service template](https://github.com/andy-takker/two-wings-bot/pull/1) on [andy-takker/two-wings-bot](https://github.com/andy-takker/two-wings-bot)
-- [Add tests and minor fixes](https://github.com/andy-takker/asyncly/pull/15) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### 💻 Stack I'm Currently Learning
@@ -83,11 +83,11 @@
 ### ⭐ Recent Stars
 
 
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
 - [donBarbos/telegram-bot-template](https://github.com/donBarbos/telegram-bot-template) - 🤖 Template for telegram bot using postgres, pgbouncer, redis, docker, amplitude, prometheus, grafana, CI with admin panel
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
-- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 
 
 ### 💻 Software
