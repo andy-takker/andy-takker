@@ -21,8 +21,8 @@
 - [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc) - 
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [andy-takker/ecology-bot](https://github.com/andy-takker/ecology-bot) - Telegram Bot with admin and dialogs. Based on aiogram, aiogram_dialogs, flask-admin, celery
-- [andy-takker/two-wings-bot](https://github.com/andy-takker/two-wings-bot) - Asynchronous telegram bot with custom admin panel
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
+- [andy-takker/two-wings-bot](https://github.com/andy-takker/two-wings-bot) - Asynchronous telegram bot with custom admin panel
 
 
 ### 💼 Stack I'm Working With
@@ -52,8 +52,6 @@
 
 - [Add workflows and readme updates](https://github.com/andy-takker/example-web-service/pull/13) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 - [Add user routes](https://github.com/andy-takker/example-web-service/pull/12) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
-- [Micro fix](https://github.com/andy-takker/ecology-bot/pull/1) on [andy-takker/ecology-bot](https://github.com/andy-takker/ecology-bot)
-- [Add service template](https://github.com/andy-takker/two-wings-bot/pull/1) on [andy-takker/two-wings-bot](https://github.com/andy-takker/two-wings-bot)
 
 
 ### 💻 Stack I'm Currently Learning
