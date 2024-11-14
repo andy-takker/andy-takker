@@ -18,10 +18,10 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc) - 
 - [andy-takker/ecology-bot](https://github.com/andy-takker/ecology-bot) - Telegram Bot with admin and dialogs. Based on aiogram, aiogram_dialogs, flask-admin, celery
-- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/two-wings-bot](https://github.com/andy-takker/two-wings-bot) - Asynchronous telegram bot with custom admin panel
 
 
