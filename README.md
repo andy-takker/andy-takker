@@ -18,9 +18,9 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc) - An example of a Golang server application using pure architecture and GRPC
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
-- [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc) - 
 - [andy-takker/ecology-bot](https://github.com/andy-takker/ecology-bot) - Telegram Bot with admin and dialogs. Based on aiogram, aiogram_dialogs, flask-admin, celery
 - [andy-takker/two-wings-bot](https://github.com/andy-takker/two-wings-bot) - Asynchronous telegram bot with custom admin panel
 
@@ -79,11 +79,11 @@
 ### ⭐ Recent Stars
 
 
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
 - [donBarbos/telegram-bot-template](https://github.com/donBarbos/telegram-bot-template) - 🤖 Template for telegram bot using postgres, pgbouncer, redis, docker, amplitude, prometheus, grafana, CI with admin panel
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-- [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 
 
 ### 💻 Software
