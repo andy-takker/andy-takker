@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc) - An example of a Golang server application using pure architecture and GRPC
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/dotfiles](https://github.com/andy-takker/dotfiles) - dotfiles for the developer happiness: git, nvim, zsh, vscode, codespaces, python
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [andy-takker/ecology-bot](https://github.com/andy-takker/ecology-bot) - Telegram Bot with admin and dialogs. Based on aiogram, aiogram_dialogs, flask-admin, celery
@@ -50,6 +50,7 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Change structure](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/8) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 - [Feature/kutuzov](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/7) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 - [Add build and publish](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/6) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 
