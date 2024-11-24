@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add  Centry interceptors](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/14) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
+- [Add TLS FULLFILL EVER](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/13) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
+- [Update KC client and config](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/12) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 - [Feature/update-proto](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/11) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 - [Update proto, grpc server and client](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/10) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
-- [Update client](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/9) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
-- [Change structure](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/8) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
-- [Feature/kutuzov](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/7) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 
 
 ### 💻 Stack I'm Currently Learning
