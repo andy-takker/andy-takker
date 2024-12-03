@@ -18,7 +18,7 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [NEROTEX-Team/fic-ideaton-2024](https://github.com/NEROTEX-Team/fic-ideaton-2024) - 
+- [NEROTEX-Team/fic-ideaton-2024](https://github.com/NEROTEX-Team/fic-ideaton-2024) - Разработка концептуальной архитектуры веб-приложения с учетом требований к безопасности, защитой от кибератак, масштабируемости и высокой доступности на всей территории России
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc) - An example of a Golang server application using pure architecture and GRPC
@@ -54,7 +54,6 @@
 - [Add  Centry interceptors](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/14) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 - [Add TLS FULLFILL EVER](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/13) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 - [Update KC client and config](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/12) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
-- [Feature/update-proto](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/11) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 
 
 ### 💻 Stack I'm Currently Learning
@@ -84,11 +83,11 @@
 ### ⭐ Recent Stars
 
 
+- [Arlandaren/auth-microservice](https://github.com/Arlandaren/auth-microservice) - Superior auth microservice, that includes WEB UI, and implementing best practices
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [freetonik/ansible-tuto-rus](https://github.com/freetonik/ansible-tuto-rus) - Ansible tutorial (Russian)
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 
 
 ### 💻 Software
