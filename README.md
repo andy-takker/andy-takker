@@ -18,9 +18,9 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [NEROTEX-Team/fic-ideaton-2024](https://github.com/NEROTEX-Team/fic-ideaton-2024) - Разработка концептуальной архитектуры веб-приложения с учетом требований к безопасности, защитой от кибератак, масштабируемости и высокой доступности на всей территории России
-- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
+- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
+- [NEROTEX-Team/fic-ideaton-2024](https://github.com/NEROTEX-Team/fic-ideaton-2024) - Разработка концептуальной архитектуры веб-приложения с учетом требований к безопасности, защитой от кибератак, масштабируемости и высокой доступности на всей территории России
 - [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc) - An example of a Golang server application using pure architecture and GRPC
 - [andy-takker/dotfiles](https://github.com/andy-takker/dotfiles) - dotfiles for the developer happiness: git, nvim, zsh, vscode, codespaces, python
 
