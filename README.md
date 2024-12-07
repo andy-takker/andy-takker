@@ -50,7 +50,6 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [[BUGFIX] remove imports from __init__](https://github.com/andy-takker/asyncly/pull/19) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### 💻 Stack I'm Currently Learning
