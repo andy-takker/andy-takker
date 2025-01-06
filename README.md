@@ -20,8 +20,8 @@
 ### 👨‍🏭 Currently Working On
 - [andy-takker/cache_and_reduce](https://github.com/andy-takker/cache_and_reduce) - Example of using cache and reduce strategies
 - [NEROTEX-Team/xmas](https://github.com/NEROTEX-Team/xmas) - 
-- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [andy-takker/microservice_architecture_homeworks](https://github.com/andy-takker/microservice_architecture_homeworks) - Homeworks from course &#34;Microservice Architecture&#34;
+- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [andy-takker/rental-bot](https://github.com/andy-takker/rental-bot) - 
 
 
