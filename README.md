@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Add github folder with dependabot and ci workflow](https://github.com/Arlandaren/pgxWrappy/pull/2) on [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy)
 - [[BUGFIX] remove imports from __init__](https://github.com/andy-takker/asyncly/pull/19) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Add  Centry interceptors](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/14) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 - [Add TLS FULLFILL EVER](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/13) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 - [Update KC client and config](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/12) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
-- [Feature/update-proto](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/11) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 
 
 ### 💻 Stack I'm Currently Learning
@@ -84,7 +84,7 @@
 ### ⭐ Recent Stars
 
 
-- [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy) - Highly useful tool for working with pgx library. It has a lot of necessary features, that undoubtedly will help you in your working routines!!!
+- [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy) - Simplifies working with the pgx library, providing convenient scanning of nested structures.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [ofabel/mp-flipper](https://github.com/ofabel/mp-flipper) - Python support for Flipper Zero
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
