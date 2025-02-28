@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Upgrade 27.02](https://github.com/Academy-A/lms/pull/111) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add github folder with dependabot and ci workflow](https://github.com/Arlandaren/pgxWrappy/pull/2) on [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy)
 - [[BUGFIX] remove imports from __init__](https://github.com/andy-takker/asyncly/pull/19) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Add  Centry interceptors](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/14) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 - [Add TLS FULLFILL EVER](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/13) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
-- [Update KC client and config](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/12) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 
 
 ### 💻 Stack I'm Currently Learning
