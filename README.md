@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy) - Simplifies working with the pgx library, providing convenient scanning of nested structures.
 - [andy-takker/microservice_architecture_homeworks](https://github.com/andy-takker/microservice_architecture_homeworks) - Homeworks from course &#34;Microservice Architecture&#34;
 - [andy-takker/simple_server](https://github.com/andy-takker/simple_server) - Simple server with user app on Go
 - [andy-takker/cache_and_reduce](https://github.com/andy-takker/cache_and_reduce) - Example of using cache and reduce strategies
-- [NEROTEX-Team/xmas](https://github.com/NEROTEX-Team/xmas) - 
 
 
 ### 💼 Stack I'm Working With
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Feature/upgrade 27 02](https://github.com/Academy-A/lms/pull/113) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [- Remove filters for regular notifications](https://github.com/Academy-A/lms/pull/112) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Upgrade 27.02](https://github.com/Academy-A/lms/pull/111) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add github folder with dependabot and ci workflow](https://github.com/Arlandaren/pgxWrappy/pull/2) on [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy)
 - [[BUGFIX] remove imports from __init__](https://github.com/andy-takker/asyncly/pull/19) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [Add  Centry interceptors](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/14) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
-- [Add TLS FULLFILL EVER](https://github.com/NEROTEX-Team/vtb-api-2024-grpc/pull/13) on [NEROTEX-Team/vtb-api-2024-grpc](https://github.com/NEROTEX-Team/vtb-api-2024-grpc)
 
 
 ### 💻 Stack I'm Currently Learning
