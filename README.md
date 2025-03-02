@@ -19,10 +19,10 @@
 
 ### 👨‍🏭 Currently Working On
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
+- [Academy-A/infra](https://github.com/Academy-A/infra) - 
 - [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy) - Simplifies working with the pgx library, providing convenient scanning of nested structures.
-- [andy-takker/microservice_architecture_homeworks](https://github.com/andy-takker/microservice_architecture_homeworks) - Homeworks from course &#34;Microservice Architecture&#34;
 - [andy-takker/simple_server](https://github.com/andy-takker/simple_server) - Simple server with user app on Go
-- [andy-takker/cache_and_reduce](https://github.com/andy-takker/cache_and_reduce) - Example of using cache and reduce strategies
+- [andy-takker/microservice_architecture_homeworks](https://github.com/andy-takker/microservice_architecture_homeworks) - Homeworks from course &#34;Microservice Architecture&#34;
 
 
 ### 💼 Stack I'm Working With
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Update config](https://github.com/Academy-A/lms/pull/115) on [Academy-A/lms](https://github.com/Academy-A/lms)
+- [Update config](https://github.com/Academy-A/lms/pull/114) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Feature/upgrade 27 02](https://github.com/Academy-A/lms/pull/113) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [- Remove filters for regular notifications](https://github.com/Academy-A/lms/pull/112) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Upgrade 27.02](https://github.com/Academy-A/lms/pull/111) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Add github folder with dependabot and ci workflow](https://github.com/Arlandaren/pgxWrappy/pull/2) on [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy)
-- [[BUGFIX] remove imports from __init__](https://github.com/andy-takker/asyncly/pull/19) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### 💻 Stack I'm Currently Learning
@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [mosquito/aiohttp-asgi](https://github.com/mosquito/aiohttp-asgi) - Run ASGI application with aiohttp
 - [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy) - Simplifies working with the pgx library, providing convenient scanning of nested structures.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [ofabel/mp-flipper](https://github.com/ofabel/mp-flipper) - Python support for Flipper Zero
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
 
 
 ### 💻 Software
