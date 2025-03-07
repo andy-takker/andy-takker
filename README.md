@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [Academy-A/infra](https://github.com/Academy-A/infra) - 
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
+- [Academy-A/infra](https://github.com/Academy-A/infra) - 
 - [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy) - Simplifies working with the pgx library, providing convenient scanning of nested structures.
 - [andy-takker/simple_server](https://github.com/andy-takker/simple_server) - Simple server with user app on Go
 - [andy-takker/microservice_architecture_homeworks](https://github.com/andy-takker/microservice_architecture_homeworks) - Homeworks from course &#34;Microservice Architecture&#34;
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [[FIX] Fix arg name](https://github.com/Academy-A/lms/pull/121) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix distribution](https://github.com/Academy-A/lms/pull/120) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix distribution](https://github.com/Academy-A/lms/pull/119) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Fix vk not set distribution](https://github.com/Academy-A/lms/pull/118) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add retryer](https://github.com/Academy-A/lms/pull/117) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Fix](https://github.com/Academy-A/lms/pull/116) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
