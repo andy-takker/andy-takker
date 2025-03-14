@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [Academy-A/infra](https://github.com/Academy-A/infra) - 
 - [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy) - Simplifies working with the pgx library, providing convenient scanning of nested structures.
 - [andy-takker/simple_server](https://github.com/andy-takker/simple_server) - Simple server with user app on Go
-- [andy-takker/microservice_architecture_homeworks](https://github.com/andy-takker/microservice_architecture_homeworks) - Homeworks from course &#34;Microservice Architecture&#34;
 
 
 ### 💼 Stack I'm Working With
@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [mosquito/aiohttp-asgi](https://github.com/mosquito/aiohttp-asgi) - Run ASGI application with aiohttp
 - [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy) - Simplifies working with the pgx library, providing convenient scanning of nested structures.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [ofabel/mp-flipper](https://github.com/ofabel/mp-flipper) - Python support for Flipper Zero
-- [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 
 
 ### 💻 Software
