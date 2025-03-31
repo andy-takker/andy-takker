@@ -84,11 +84,11 @@
 ### ⭐ Recent Stars
 
 
+- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [mosquito/aiohttp-asgi](https://github.com/mosquito/aiohttp-asgi) - Run ASGI application with aiohttp
 - [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy) - Simplifies working with the pgx library, providing convenient scanning of nested structures.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [ofabel/mp-flipper](https://github.com/ofabel/mp-flipper) - Python support for Flipper Zero
 
 
 ### 💻 Software
