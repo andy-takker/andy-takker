@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/websocket_chat](https://github.com/andy-takker/websocket_chat) - Typical websocket chat with FastAPI, SQLAlchemy, Alembic, Dishka and etc
 - [NEROTEX-Team/true-tech-hack-2025](https://github.com/NEROTEX-Team/true-tech-hack-2025) - True Tech Hack 2025 
 - [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [Academy-A/infra](https://github.com/Academy-A/infra) - 
-- [Arlandaren/pgxWrappy](https://github.com/Arlandaren/pgxWrappy) - Simplifies working with the pgx library, providing convenient scanning of nested structures.
 
 
 ### 💼 Stack I'm Working With
