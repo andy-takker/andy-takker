@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [[ISSUE-29] Add struct log](https://github.com/andy-takker/example-web-service/pull/37) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 - [[ISSUE-34] Change poetry to uv](https://github.com/andy-takker/example-web-service/pull/36) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 - [Fix column title](https://github.com/Academy-A/lms/pull/124) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Move date and time](https://github.com/Academy-A/lms/pull/123) on [Academy-A/lms](https://github.com/Academy-A/lms)
 - [Add datetime column](https://github.com/Academy-A/lms/pull/122) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [[FIX] Fix arg name](https://github.com/Academy-A/lms/pull/121) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
