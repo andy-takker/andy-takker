@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/telegram_channel_parser](https://github.com/andy-takker/telegram_channel_parser) - 
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [NEROTEX-Team/vtb-arch-2025](https://github.com/NEROTEX-Team/vtb-arch-2025) - 
 - [andy-takker/websocket_chat](https://github.com/andy-takker/websocket_chat) - Typical websocket chat with FastAPI, SQLAlchemy, Alembic, Dishka and etc
 - [NEROTEX-Team/true-tech-hack-2025](https://github.com/NEROTEX-Team/true-tech-hack-2025) - True Tech Hack 2025 
-- [Academy-A/lms](https://github.com/Academy-A/lms) - Automation system for LMS Insperia
 
 
 ### 💼 Stack I'm Working With
@@ -53,7 +53,6 @@
 - [[ISSUE-29] Add struct log](https://github.com/andy-takker/example-web-service/pull/37) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 - [[ISSUE-34] Change poetry to uv](https://github.com/andy-takker/example-web-service/pull/36) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 - [Fix column title](https://github.com/Academy-A/lms/pull/124) on [Academy-A/lms](https://github.com/Academy-A/lms)
-- [Move date and time](https://github.com/Academy-A/lms/pull/123) on [Academy-A/lms](https://github.com/Academy-A/lms)
 
 
 ### 💻 Stack I'm Currently Learning
