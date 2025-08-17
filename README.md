@@ -51,7 +51,6 @@
 
 
 - [[ISSUE-29] Add struct log](https://github.com/andy-takker/example-web-service/pull/37) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
-- [[ISSUE-34] Change poetry to uv](https://github.com/andy-takker/example-web-service/pull/36) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 
 
 ### 💻 Stack I'm Currently Learning
