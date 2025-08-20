@@ -18,8 +18,8 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [andy-takker/telegram_channel_parser_go](https://github.com/andy-takker/telegram_channel_parser_go) - Simple telegram channel watcher on Golang
-- [andy-takker/telegram_channel_parser](https://github.com/andy-takker/telegram_channel_parser) - Simple listener for telegram channel and alerting to telegram chat or group
+- [andy-takker/telegram_channel_watcher_go](https://github.com/andy-takker/telegram_channel_watcher_go) - Simple telegram channel watcher on Golang
+- [andy-takker/telegram_channel_watcher](https://github.com/andy-takker/telegram_channel_watcher) - Simple listener for telegram channel and alerting to telegram chat or group
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [NEROTEX-Team/vtb-arch-2025](https://github.com/NEROTEX-Team/vtb-arch-2025) - 
 - [andy-takker/websocket_chat](https://github.com/andy-takker/websocket_chat) - Typical websocket chat with FastAPI, SQLAlchemy, Alembic, Dishka and etc
