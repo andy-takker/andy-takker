@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
+- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 - [andy-takker/python-webframework-performance](https://github.com/andy-takker/python-webframework-performance) - 
 - [andy-takker/telegram_channel_watcher_go](https://github.com/andy-takker/telegram_channel_watcher_go) - Simple telegram channel watcher on Golang
 - [andy-takker/telegram_channel_watcher](https://github.com/andy-takker/telegram_channel_watcher) - Simple listener for telegram channel and alerting to telegram chat or group
-- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
-- [NEROTEX-Team/vtb-arch-2025](https://github.com/NEROTEX-Team/vtb-arch-2025) - 
 
 
 ### 💼 Stack I'm Working With
@@ -50,7 +50,10 @@
 ### 🔨 My Recent Pull Requests
 
 
-- [[ISSUE-29] Add struct log](https://github.com/andy-takker/example-web-service/pull/37) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
+- [[ISSUE-30] Add faststream example and fix README.md](https://github.com/andy-takker/example-web-service/pull/40) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
+- [Fix publish pipeline](https://github.com/andy-takker/asyncly/pull/23) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
+- [Micro fixes](https://github.com/andy-takker/asyncly/pull/22) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
+- [[ISSUE-33] Add clients with cache and reduce](https://github.com/andy-takker/example-web-service/pull/39) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 
 
 ### 💻 Stack I'm Currently Learning
