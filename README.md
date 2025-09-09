@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Update python versions](https://github.com/andy-takker/asyncly/pull/26) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
+- [Update README.rst](https://github.com/andy-takker/asyncly/pull/25) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Upgrade typing for HTTPMethods](https://github.com/andy-takker/asyncly/pull/24) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [[ISSUE-30] Add faststream example and fix README.md](https://github.com/andy-takker/example-web-service/pull/40) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 - [Fix publish pipeline](https://github.com/andy-takker/asyncly/pull/23) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [Micro fixes](https://github.com/andy-takker/asyncly/pull/22) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [[ISSUE-33] Add clients with cache and reduce](https://github.com/andy-takker/example-web-service/pull/39) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
 
 
 ### 💻 Stack I'm Currently Learning
