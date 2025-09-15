@@ -19,8 +19,8 @@
 
 ### 👨‍🏭 Currently Working On
 - [andy-takker/integration_tests_example](https://github.com/andy-takker/integration_tests_example) - Example integration tests
-- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/python-webframework-performance](https://github.com/andy-takker/python-webframework-performance) - 
 - [andy-takker/telegram_channel_watcher_go](https://github.com/andy-takker/telegram_channel_watcher_go) - Simple telegram channel watcher on Golang
 
