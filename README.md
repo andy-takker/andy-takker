@@ -18,9 +18,9 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/integration_tests_example](https://github.com/andy-takker/integration_tests_example) - Example integration tests
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
-- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/python-webframework-performance](https://github.com/andy-takker/python-webframework-performance) - 
 - [andy-takker/telegram_channel_watcher_go](https://github.com/andy-takker/telegram_channel_watcher_go) - Simple telegram channel watcher on Golang
 
@@ -50,11 +50,11 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix kwargs params in make_request](https://github.com/andy-takker/asyncly/pull/28) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
+- [Add prometheus and opentelemetry metrics for instrumentable client](https://github.com/andy-takker/asyncly/pull/27) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Update python versions](https://github.com/andy-takker/asyncly/pull/26) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Update README.rst](https://github.com/andy-takker/asyncly/pull/25) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Upgrade typing for HTTPMethods](https://github.com/andy-takker/asyncly/pull/24) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [[ISSUE-30] Add faststream example and fix README.md](https://github.com/andy-takker/example-web-service/pull/40) on [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service)
-- [Fix publish pipeline](https://github.com/andy-takker/asyncly/pull/23) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### 💻 Stack I'm Currently Learning
