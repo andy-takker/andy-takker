@@ -54,7 +54,6 @@
 - [Add prometheus and opentelemetry metrics for instrumentable client](https://github.com/andy-takker/asyncly/pull/27) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Update python versions](https://github.com/andy-takker/asyncly/pull/26) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Update README.rst](https://github.com/andy-takker/asyncly/pull/25) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [Upgrade typing for HTTPMethods](https://github.com/andy-takker/asyncly/pull/24) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### 💻 Stack I'm Currently Learning
