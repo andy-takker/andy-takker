@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/tg-auth](https://github.com/andy-takker/tg-auth) - Simple TG auth example
 - [andy-takker/leetcode-journey](https://github.com/andy-takker/leetcode-journey) - LeetCode tasks
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/integration_tests_example](https://github.com/andy-takker/integration_tests_example) - Example integration tests
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
-- [andy-takker/python-webframework-performance](https://github.com/andy-takker/python-webframework-performance) - 
 
 
 ### 💼 Stack I'm Working With
