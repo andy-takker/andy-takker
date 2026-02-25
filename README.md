@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
+- [andy-takker/example-litestar-service](https://github.com/andy-takker/example-litestar-service) - Example Litestar app with database, nats, rate limits, logging etc.
 - [andy-takker/tg-auth](https://github.com/andy-takker/tg-auth) - Simple TG auth example
 - [andy-takker/leetcode-journey](https://github.com/andy-takker/leetcode-journey) - LeetCode tasks
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
 - [andy-takker/integration_tests_example](https://github.com/andy-takker/integration_tests_example) - Example integration tests
-- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
 
 
 ### 💼 Stack I'm Working With
@@ -50,10 +50,10 @@
 ### 🔨 My Recent Pull Requests
 
 
+- [docs: update example litestar projects to the README](https://github.com/litestar-org/awesome-litestar/pull/13) on [litestar-org/awesome-litestar](https://github.com/litestar-org/awesome-litestar)
 - [Fix kwargs params in make_request](https://github.com/andy-takker/asyncly/pull/28) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Add prometheus and opentelemetry metrics for instrumentable client](https://github.com/andy-takker/asyncly/pull/27) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Update python versions](https://github.com/andy-takker/asyncly/pull/26) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [Update README.rst](https://github.com/andy-takker/asyncly/pull/25) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### 💻 Stack I'm Currently Learning
