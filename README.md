@@ -18,11 +18,11 @@
 
 
 ### 👨‍🏭 Currently Working On
-- [andy-takker/example-litestar-service](https://github.com/andy-takker/example-litestar-service) - Example Litestar app with database, nats, rate limits, logging etc.
+- [andy-takker/catfact-demo-service](https://github.com/andy-takker/catfact-demo-service) - Five sibling test files comparing HTTP integration testing techniques in Python — companion FastAPI service to a Habr article.
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
 - [andy-takker/tg-auth](https://github.com/andy-takker/tg-auth) - Simple TG auth example
-- [andy-takker/leetcode-journey](https://github.com/andy-takker/leetcode-journey) - LeetCode tasks
-- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Simple HTTP client and server for your integrations based on aiohttp
-- [andy-takker/integration_tests_example](https://github.com/andy-takker/integration_tests_example) - Example integration tests
+- [andy-takker/example-litestar-service](https://github.com/andy-takker/example-litestar-service) - Production-ready Python web service template on Litestar — clean architecture, dishka DI, JWT auth &#43; RBAC, NATS via FastStream, observability out of the box
+- [andy-takker/ml_personalization_test_task](https://github.com/andy-takker/ml_personalization_test_task) - Тестовое задание для ML-инженера: прототип AI-ядра персонализации в LMS. Обновление карты навыков, ранкер материалов, агентный слой и FastAPI endpoint.
 
 
 ### 💼 Stack I'm Working With
