@@ -12,8 +12,8 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-    
+        uses: actions/checkout@v4
+
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
@@ -21,10 +21,19 @@ jobs:
         with:
           template: 'README.gtpl'
           writeTo: 'README.md'
-      
-      - name: Commit README
-        uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
+
+      # markscribe strips HTML comments, so the blog-post-workflow markers must be
+      # re-injected into README.md after generation (idempotent, guarded by grep).
+      - name: Insert blog-post markers
+        run: |
+          if ! grep -q "BLOG-POST-LIST:START" README.md; then
+            perl -0pi -e 's/(#+ .*Latest Articles on Habr\r?\n)/$1\n<!-- BLOG-POST-LIST:START -->\n<!-- BLOG-POST-LIST:END -->\n/' README.md
+          fi
+          grep -q "BLOG-POST-LIST:START" README.md
+
+      - name: Sync latest Habr articles
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          commit_message: 'markscribe: autoupdate README.md'
+          feed_list: "https://habr.com/ru/rss/users/andy-takker/publications/articles/"
+          max_post_count: 5
+          commit_message: "markscribe: autoupdate README.md"
