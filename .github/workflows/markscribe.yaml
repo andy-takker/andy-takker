@@ -40,6 +40,7 @@ jobs:
           feed_list: "https://habr.com/ru/rss/users/andy-takker/publications/articles/"
           max_post_count: 5
           output_only: true
+          enable_keepalive: false
 
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v5
