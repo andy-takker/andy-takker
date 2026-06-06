@@ -35,12 +35,35 @@ jobs:
           grep -q "BLOG-POST-LIST:START" README.md
 
       - name: Sync latest Habr articles
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://habr.com/ru/rss/users/andy-takker/publications/articles/"
-          max_post_count: 5
-          output_only: true
-          enable_keepalive: false
+        run: |
+          python3 - <<'PY'
+          import urllib.request, xml.etree.ElementTree as ET, re, html
+          URL = "https://habr.com/ru/rss/users/andy-takker/publications/articles/"
+          req = urllib.request.Request(URL, headers={"User-Agent": "Mozilla/5.0"})
+          data = urllib.request.urlopen(req, timeout=30).read()
+          items = ET.fromstring(data).findall(".//item")[:5]
+          lines = []
+          for it in items:
+              title = html.unescape((it.findtext("title") or "").strip())
+              link = (it.findtext("link") or "").strip().split("?")[0]
+              if title and link:
+                  lines.append(f"- [{title}]({link})")
+          block = "\n".join(lines)
+          if not block:
+              raise SystemExit("No articles parsed from Habr RSS")
+          with open("README.md", encoding="utf-8") as f:
+              content = f.read()
+          new = re.sub(
+              r"(<!-- BLOG-POST-LIST:START -->).*?(<!-- BLOG-POST-LIST:END -->)",
+              lambda m: f"{m.group(1)}\n{block}\n{m.group(2)}",
+              content, flags=re.S,
+          )
+          if new == content:
+              raise SystemExit("BLOG-POST-LIST markers not found in README.md")
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new)
+          print(block)
+          PY
 
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v5
