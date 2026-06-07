@@ -171,7 +171,7 @@
 ### 👨‍🏭 Recently Worked On
 
 
-- [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Homework for a PostgreSQL optimization course: OS &amp; DB tuning, benchmarking, connection pooling, file systems, backups and replication. Hands-on labs on Raspberry Pi 4B with reports and charts.
+- [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Homework for a PostgreSQL optimization course: OS &amp; DB tuning, benchmarking, connection pooling, file systems, backups and replication. Hands-on labs on Raspberry Pi 4B and GCP VMs with reports and charts.
 - [andy-takker/catfact-demo-service](https://github.com/andy-takker/catfact-demo-service) - Five sibling test files comparing HTTP integration testing techniques in Python — companion FastAPI service to a Habr article.
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
 - [andy-takker/tg-auth](https://github.com/andy-takker/tg-auth) - Simple TG auth example
