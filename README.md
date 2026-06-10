@@ -171,20 +171,20 @@
 ### 👨‍🏭 Recently Worked On
 
 
+- [andy-takker/example-litestar-service](https://github.com/andy-takker/example-litestar-service) - Production-ready Python web service template on Litestar — clean architecture, dishka DI, JWT auth &#43; RBAC, NATS via FastStream, observability out of the box
+- [litestar-org/awesome-litestar](https://github.com/litestar-org/awesome-litestar) - A curated list of resources related to Litestar. 
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
 - [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Homework for a PostgreSQL optimization course: OS &amp; DB tuning, benchmarking, connection pooling, file systems, backups and replication. Hands-on labs on Raspberry Pi 4B and GCP VMs with reports and charts.
 - [andy-takker/catfact-demo-service](https://github.com/andy-takker/catfact-demo-service) - Five sibling test files comparing HTTP integration testing techniques in Python — companion FastAPI service to a Habr article.
-- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
-- [andy-takker/tg-auth](https://github.com/andy-takker/tg-auth) - Simple TG auth example
-- [andy-takker/example-litestar-service](https://github.com/andy-takker/example-litestar-service) - Production-ready Python web service template on Litestar — clean architecture, dishka DI, JWT auth &#43; RBAC, NATS via FastStream, observability out of the box
 
 
 ### 🔨 Recent Pull Requests
 
 
+- [Add asyncly](https://github.com/augustogoulart/awesome-pytest/pull/68) on [augustogoulart/awesome-pytest](https://github.com/augustogoulart/awesome-pytest)
+- [Add asyncly](https://github.com/timofurrer/awesome-asyncio/pull/117) on [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
+- [Docs/mkdocs site](https://github.com/andy-takker/asyncly/pull/30) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [docs: update example litestar projects to the README](https://github.com/litestar-org/awesome-litestar/pull/13) on [litestar-org/awesome-litestar](https://github.com/litestar-org/awesome-litestar)
-- [Fix kwargs params in make_request](https://github.com/andy-takker/asyncly/pull/28) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [Add prometheus and opentelemetry metrics for instrumentable client](https://github.com/andy-takker/asyncly/pull/27) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [Update python versions](https://github.com/andy-takker/asyncly/pull/26) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### ⭐ Recently Starred
