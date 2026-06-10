@@ -155,11 +155,11 @@
 ### 📝 Latest Articles on Habr
 
 <!-- BLOG-POST-LIST:START -->
+- [Ваши тесты медленные не из-за базы данных. Я измерил](https://habr.com/ru/articles/1045923/)
 - [Почему ваши моки не ловят реальные баги?](https://habr.com/ru/articles/1034864/)
 - [Логин через Telegram по-новому: разбираем OIDC-флоу oauth.telegram.org и собираем его на Python](https://habr.com/ru/articles/1033632/)
 - [Как мы ускорили CI в 2 раза с помощью Docker Swarm и немного здравого смысла](https://habr.com/ru/articles/964306/)
 - [Случаи из разработки на асинхронных фреймворках в Python. Часть 1. FastAPI](https://habr.com/ru/articles/942942/)
-- [TDD и цикл обратной связи](https://habr.com/ru/articles/942356/)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -171,11 +171,11 @@
 ### 👨‍🏭 Recently Worked On
 
 
-- [andy-takker/example-litestar-service](https://github.com/andy-takker/example-litestar-service) - Production-ready Python web service template on Litestar — clean architecture, dishka DI, JWT auth &#43; RBAC, NATS via FastStream, observability out of the box
-- [litestar-org/awesome-litestar](https://github.com/litestar-org/awesome-litestar) - A curated list of resources related to Litestar. 
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
+- [litestar-org/awesome-litestar](https://github.com/litestar-org/awesome-litestar) - A curated list of resources related to Litestar. 
+- [andy-takker/slow-tests-benchmark](https://github.com/andy-takker/slow-tests-benchmark) - Benchmark scripts and raw results for an article on speeding up pytest integration tests (session-scope fixtures, TRUNCATE vs DELETE, argon2)
+- [andy-takker/example-litestar-service](https://github.com/andy-takker/example-litestar-service) - Production-ready Python web service template on Litestar — clean architecture, dishka DI, JWT auth &#43; RBAC, NATS via FastStream, observability out of the box
 - [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Homework for a PostgreSQL optimization course: OS &amp; DB tuning, benchmarking, connection pooling, file systems, backups and replication. Hands-on labs on Raspberry Pi 4B and GCP VMs with reports and charts.
-- [andy-takker/catfact-demo-service](https://github.com/andy-takker/catfact-demo-service) - Five sibling test files comparing HTTP integration testing techniques in Python — companion FastAPI service to a Habr article.
 
 
 ### 🔨 Recent Pull Requests
