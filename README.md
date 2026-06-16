@@ -155,11 +155,11 @@
 ### 📝 Latest Articles on Habr
 
 <!-- BLOG-POST-LIST:START -->
+- [Чтобы ваши тесты работали быстрее, нужен простой советский… xdist. Я измерил. Часть 2](https://habr.com/ru/articles/1047134/)
 - [Ваши тесты медленные не из-за базы данных. Я измерил. Часть 1](https://habr.com/ru/articles/1045923/)
 - [Почему ваши моки не ловят реальные баги?](https://habr.com/ru/articles/1034864/)
 - [Логин через Telegram по-новому: разбираем OIDC-флоу oauth.telegram.org и собираем его на Python](https://habr.com/ru/articles/1033632/)
 - [Как мы ускорили CI в 2 раза с помощью Docker Swarm и немного здравого смысла](https://habr.com/ru/articles/964306/)
-- [Случаи из разработки на асинхронных фреймворках в Python. Часть 1. FastAPI](https://habr.com/ru/articles/942942/)
 <!-- BLOG-POST-LIST:END -->
 
 
