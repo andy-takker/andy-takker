@@ -171,7 +171,7 @@
 ### 👨‍🏭 Recently Worked On
 
 
-- [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Homework for a PostgreSQL optimization course: OS &amp; DB tuning, benchmarking, connection pooling, file systems, backups and replication. Hands-on labs on Raspberry Pi 4B and GCP VMs with reports and charts.
+- [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Домашние работы курса по оптимизации и администрированию PostgreSQL 18: тюнинг ОС/СУБД, пулинг, ФС, репликация, мониторинг, WAL, автовакуум, схема, запросы, обслуживание — стенды, замеры, графики, выводы.
 - [andy-takker/slow-tests-benchmark](https://github.com/andy-takker/slow-tests-benchmark) - Benchmark scripts and raw results for an article on speeding up pytest integration tests (session-scope fixtures, TRUNCATE vs DELETE, argon2)
 - [litestar-org/awesome-litestar](https://github.com/litestar-org/awesome-litestar) - A curated list of resources related to Litestar. 
 - [andy-takker/example-litestar-service](https://github.com/andy-takker/example-litestar-service) - Production-ready Python web service template on Litestar — clean architecture, dishka DI, JWT auth &#43; RBAC, NATS via FastStream, observability out of the box
