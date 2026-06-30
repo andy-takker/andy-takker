@@ -155,11 +155,11 @@
 ### 📝 Latest Articles on Habr
 
 <!-- BLOG-POST-LIST:START -->
+- [import-linter: пусть границы слоёв сторожит машина, а не человек](https://habr.com/ru/articles/1053430/)
 - [Чтобы ваши тесты работали быстрее, нужен простой советский… xdist. Я измерил. Часть 2](https://habr.com/ru/articles/1047134/)
 - [Ваши тесты медленные не из-за базы данных. Я измерил. Часть 1](https://habr.com/ru/articles/1045923/)
 - [Почему ваши моки не ловят реальные баги?](https://habr.com/ru/articles/1034864/)
 - [Логин через Telegram по-новому: разбираем OIDC-флоу oauth.telegram.org и собираем его на Python](https://habr.com/ru/articles/1033632/)
-- [Как мы ускорили CI в 2 раза с помощью Docker Swarm и немного здравого смысла](https://habr.com/ru/articles/964306/)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -171,11 +171,11 @@
 ### 👨‍🏭 Recently Worked On
 
 
+- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Example async Python web service (Litestar &#43; FastStream/NATS) with clean layered architecture, DI and import-linter
 - [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Домашние работы курса по оптимизации и администрированию PostgreSQL 18: тюнинг ОС/СУБД, пулинг, ФС, репликация, мониторинг, WAL, автовакуум, схема, запросы, обслуживание — стенды, замеры, графики, выводы.
 - [andy-takker/slow-tests-benchmark](https://github.com/andy-takker/slow-tests-benchmark) - Benchmark scripts and raw results for an article on speeding up pytest integration tests (session-scope fixtures, TRUNCATE vs DELETE, argon2)
 - [litestar-org/awesome-litestar](https://github.com/litestar-org/awesome-litestar) - A curated list of resources related to Litestar. 
 - [andy-takker/example-litestar-service](https://github.com/andy-takker/example-litestar-service) - Production-ready Python web service template on Litestar — clean architecture, dishka DI, JWT auth &#43; RBAC, NATS via FastStream, observability out of the box
-- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
 
 
 ### 🔨 Recent Pull Requests
@@ -192,7 +192,7 @@
 
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Simple FastAPI web service with clean architecture and test
+- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Example async Python web service (Litestar &#43; FastStream/NATS) with clean layered architecture, DI and import-linter
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 
