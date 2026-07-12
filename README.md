@@ -182,9 +182,6 @@
 
 
 - [Add asyncly](https://github.com/augustogoulart/awesome-pytest/pull/68) on [augustogoulart/awesome-pytest](https://github.com/augustogoulart/awesome-pytest)
-- [Add asyncly](https://github.com/timofurrer/awesome-asyncio/pull/117) on [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
-- [Docs/mkdocs site](https://github.com/andy-takker/asyncly/pull/30) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [docs: update example litestar projects to the README](https://github.com/litestar-org/awesome-litestar/pull/13) on [litestar-org/awesome-litestar](https://github.com/litestar-org/awesome-litestar)
 
 
 ### ⭐ Recently Starred
