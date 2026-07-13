@@ -171,17 +171,21 @@
 ### 👨‍🏭 Recently Worked On
 
 
+- [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability) - Assessing the Reliability of Responses in RAG Systems @SMILES-2026
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Example async Python web service (Litestar &#43; FastStream/NATS) with clean layered architecture, DI and import-linter
 - [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Домашние работы курса по оптимизации и администрированию PostgreSQL 18: тюнинг ОС/СУБД, пулинг, ФС, репликация, мониторинг, WAL, автовакуум, схема, запросы, обслуживание — стенды, замеры, графики, выводы.
 - [andy-takker/slow-tests-benchmark](https://github.com/andy-takker/slow-tests-benchmark) - Benchmark scripts and raw results for an article on speeding up pytest integration tests (session-scope fixtures, TRUNCATE vs DELETE, argon2)
 - [litestar-org/awesome-litestar](https://github.com/litestar-org/awesome-litestar) - A curated list of resources related to Litestar. 
-- [andy-takker/example-litestar-service](https://github.com/andy-takker/example-litestar-service) - Production-ready Python web service template on Litestar — clean architecture, dishka DI, JWT auth &#43; RBAC, NATS via FastStream, observability out of the box
 
 
 ### 🔨 Recent Pull Requests
 
 
-- [Add asyncly](https://github.com/augustogoulart/awesome-pytest/pull/68) on [augustogoulart/awesome-pytest](https://github.com/augustogoulart/awesome-pytest)
+- [Score encoder on an explicit split &#43; leaderboard chart](https://github.com/aldem2k00/rag-reliability/pull/10) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
+- [Polish README: hero, badges, inline diagrams, results leaderboard](https://github.com/aldem2k00/rag-reliability/pull/7) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
+- [Unify method dispatch: registry &#43; rag-judge CLI &#43; full demo coverage](https://github.com/aldem2k00/rag-reliability/pull/6) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
+- [Add independent evaluator prototype](https://github.com/aldem2k00/rag-reliability/pull/5) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
+- [Integrate m3 m6 methods](https://github.com/aldem2k00/rag-reliability/pull/3) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
 
 
 ### ⭐ Recently Starred
