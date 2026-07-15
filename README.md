@@ -171,11 +171,11 @@
 ### 👨‍🏭 Recently Worked On
 
 
+- [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
 - [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability) - Assessing the Reliability of Responses in RAG Systems @SMILES-2026
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Example async Python web service (Litestar &#43; FastStream/NATS) with clean layered architecture, DI and import-linter
 - [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Домашние работы курса по оптимизации и администрированию PostgreSQL 18: тюнинг ОС/СУБД, пулинг, ФС, репликация, мониторинг, WAL, автовакуум, схема, запросы, обслуживание — стенды, замеры, графики, выводы.
 - [andy-takker/slow-tests-benchmark](https://github.com/andy-takker/slow-tests-benchmark) - Benchmark scripts and raw results for an article on speeding up pytest integration tests (session-scope fixtures, TRUNCATE vs DELETE, argon2)
-- [litestar-org/awesome-litestar](https://github.com/litestar-org/awesome-litestar) - A curated list of resources related to Litestar. 
 
 
 ### 🔨 Recent Pull Requests
