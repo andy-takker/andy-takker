@@ -181,11 +181,11 @@
 ### 🔨 Recent Pull Requests
 
 
+- [Qwen7b notebook](https://github.com/aldem2k00/rag-reliability/pull/11) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
 - [Score encoder on an explicit split &#43; leaderboard chart](https://github.com/aldem2k00/rag-reliability/pull/10) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
 - [Polish README: hero, badges, inline diagrams, results leaderboard](https://github.com/aldem2k00/rag-reliability/pull/7) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
 - [Unify method dispatch: registry &#43; rag-judge CLI &#43; full demo coverage](https://github.com/aldem2k00/rag-reliability/pull/6) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
 - [Add independent evaluator prototype](https://github.com/aldem2k00/rag-reliability/pull/5) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
-- [Integrate m3 m6 methods](https://github.com/aldem2k00/rag-reliability/pull/3) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
 
 
 ### ⭐ Recently Starred
