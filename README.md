@@ -171,8 +171,8 @@
 ### 👨‍🏭 Recently Worked On
 
 
-- [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability) - Assessing the Reliability of Responses in RAG Systems @SMILES-2026
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
+- [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability) - Assessing the Reliability of Responses in RAG Systems @SMILES-2026
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Example async Python web service (Litestar &#43; FastStream/NATS) with clean layered architecture, DI and import-linter
 - [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Домашние работы курса по оптимизации и администрированию PostgreSQL 18: тюнинг ОС/СУБД, пулинг, ФС, репликация, мониторинг, WAL, автовакуум, схема, запросы, обслуживание — стенды, замеры, графики, выводы.
 - [andy-takker/slow-tests-benchmark](https://github.com/andy-takker/slow-tests-benchmark) - Benchmark scripts and raw results for an article on speeding up pytest integration tests (session-scope fixtures, TRUNCATE vs DELETE, argon2)
@@ -181,11 +181,11 @@
 ### 🔨 Recent Pull Requests
 
 
+- [fix: restore aiohttp authentication compatibility](https://github.com/andy-takker/asyncly/pull/70) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Methods 1-2 article: prompted and fine-tuned generative judges](https://github.com/aldem2k00/rag-reliability/pull/15) on [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability)
 - [Add project logo](https://github.com/andy-takker/asyncly/pull/38) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Remove release recovery workflow](https://github.com/andy-takker/asyncly/pull/37) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 - [Fix release artifact signing](https://github.com/andy-takker/asyncly/pull/36) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
-- [docs: validate branch ruleset](https://github.com/andy-takker/asyncly/pull/34) on [andy-takker/asyncly](https://github.com/andy-takker/asyncly)
 
 
 ### ⭐ Recently Starred
