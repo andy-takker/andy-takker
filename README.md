@@ -191,11 +191,11 @@
 ### ⭐ Recently Starred
 
 
+- [dogekiller21/unfuck-claude](https://github.com/dogekiller21/unfuck-claude) - Comments are bad for agents. Let them read code, not your docstrings
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Example async Python web service (Litestar &#43; FastStream/NATS) with clean layered architecture, DI and import-linter
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 
 
 ### 📊 Statistics
