@@ -127,6 +127,14 @@
       <p>PostgreSQL 18 tuning experiments: OS/DB settings, pooling, replication, WAL, autovacuum, query plans — stands, measurements, graphs.</p>
     </td>
   </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <a href="https://github.com/andy-takker/example-web-service"><b>🧱 example-web-service</b></a><br/>
+      <img alt="stars" src="https://img.shields.io/github/stars/andy-takker/example-web-service?style=flat-square&logo=github&color=2671E5"/>
+      <img alt="language" src="https://img.shields.io/github/languages/top/andy-takker/example-web-service?style=flat-square"/>
+      <p>Example async Python web service (Litestar + FastStream/NATS) with clean layered architecture, DI and import-linter.</p>
+    </td>
+  </tr>
 </table>
 
 
