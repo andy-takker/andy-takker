@@ -127,6 +127,14 @@
       <p>PostgreSQL 18 tuning experiments: OS/DB settings, pooling, replication, WAL, autovacuum, query plans — stands, measurements, graphs.</p>
     </td>
   </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <a href="https://github.com/andy-takker/example-web-service"><b>🧱 example-web-service</b></a><br/>
+      <img alt="stars" src="https://img.shields.io/github/stars/andy-takker/example-web-service?style=flat-square&logo=github&color=2671E5"/>
+      <img alt="language" src="https://img.shields.io/github/languages/top/andy-takker/example-web-service?style=flat-square"/>
+      <p>Example async Python web service (Litestar + FastStream/NATS) with clean layered architecture, DI and import-linter.</p>
+    </td>
+  </tr>
 </table>
 
 
@@ -152,7 +160,7 @@
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
 - [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability) - Assessing the Reliability of Responses in RAG Systems @SMILES-2026
 - [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Example async Python web service (Litestar &#43; FastStream/NATS) with clean layered architecture, DI and import-linter
-- [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - Домашние работы курса по оптимизации и администрированию PostgreSQL 18: тюнинг ОС/СУБД, пулинг, ФС, репликация, мониторинг, WAL, автовакуум, схема, запросы, обслуживание — стенды, замеры, графики, выводы.
+- [andy-takker/pg-optimization](https://github.com/andy-takker/pg-optimization) - PostgreSQL 18 tuning experiments: OS/DB settings, pooling, replication, WAL, autovacuum, query plans — stands, measurements, graphs, conclusions
 - [andy-takker/slow-tests-benchmark](https://github.com/andy-takker/slow-tests-benchmark) - Benchmark scripts and raw results for an article on speeding up pytest integration tests (session-scope fixtures, TRUNCATE vs DELETE, argon2)
 
 
