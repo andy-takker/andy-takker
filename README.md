@@ -141,11 +141,11 @@
 ### 📝 Latest Articles on Habr
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему HTTP‑вызов не укладывается в таймаут: очереди, ретраи и asyncio](https://habr.com/ru/articles/1094050/)
 - [import-linter: пусть границы слоёв сторожит машина, а не человек](https://habr.com/ru/articles/1053430/)
 - [Чтобы ваши тесты работали быстрее, нужен простой советский… xdist. Я измерил. Часть 2](https://habr.com/ru/articles/1047134/)
 - [Ваши тесты медленные не из-за базы данных. Я измерил. Часть 1](https://habr.com/ru/articles/1045923/)
 - [Почему ваши моки не ловят реальные баги?](https://habr.com/ru/articles/1034864/)
-- [Логин через Telegram по-новому: разбираем OIDC-флоу oauth.telegram.org и собираем его на Python](https://habr.com/ru/articles/1033632/)
 <!-- BLOG-POST-LIST:END -->
 
 
