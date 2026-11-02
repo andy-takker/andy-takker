@@ -158,20 +158,20 @@
 
 
 - [andy-takker/opencode-plugin-subagents-sidebar](https://github.com/andy-takker/opencode-plugin-subagents-sidebar) - OpenCode plugin: live subagent status, nested task tracking and clickable session navigation in a collapsible terminal sidebar.
+- [andy-takker/invest-terminal](https://github.com/andy-takker/invest-terminal) - Инвест-Терминал — кабинет инвестора: цели, реинвестирование, честная доходность, налоги, Telegram. Команда 404, Академия Финтеха 2026
 - [andy-takker/http-deadline](https://github.com/andy-takker/http-deadline) - Reproducible experiments on HTTP timeouts and operation deadlines in Python: retries, semaphore and connection-pool waits, response-body reads, and cancellation. Built with asyncio and aiohttp, with tests, raw data, and timelines.
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
 - [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability) - Assessing the Reliability of Responses in RAG Systems @SMILES-2026
-- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Example async Python web service (Litestar &#43; FastStream/NATS) with clean layered architecture, DI and import-linter
 
 
 ### 🔨 Recent Pull Requests
 
 
+- [fix(tui): resolve links while session location loads](https://github.com/YidaWeng/opencode/pull/1) on [YidaWeng/opencode](https://github.com/YidaWeng/opencode)
 - [docs: add opencode-plugin-subagents-sidebar to plugins](https://github.com/awesome-opencode/awesome-opencode/pull/1001) on [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
 - [fix: compile npm TUI entry for OpenCode 2.2.5 (v0.2.1)](https://github.com/andy-takker/opencode-plugin-subagents-sidebar/pull/20) on [andy-takker/opencode-plugin-subagents-sidebar](https://github.com/andy-takker/opencode-plugin-subagents-sidebar)
 - [chore: release v0.2.0 with refreshed Warp demo](https://github.com/andy-takker/opencode-plugin-subagents-sidebar/pull/19) on [andy-takker/opencode-plugin-subagents-sidebar](https://github.com/andy-takker/opencode-plugin-subagents-sidebar)
 - [feat: add keyboard subagent navigation](https://github.com/andy-takker/opencode-plugin-subagents-sidebar/pull/18) on [andy-takker/opencode-plugin-subagents-sidebar](https://github.com/andy-takker/opencode-plugin-subagents-sidebar)
-- [feat: show nested subagents as a task tree](https://github.com/andy-takker/opencode-plugin-subagents-sidebar/pull/17) on [andy-takker/opencode-plugin-subagents-sidebar](https://github.com/andy-takker/opencode-plugin-subagents-sidebar)
 
 
 ### 📊 Statistics
