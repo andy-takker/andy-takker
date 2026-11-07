@@ -167,11 +167,11 @@
 ### 🔨 Recent Pull Requests
 
 
+- [docs: verify npm plugin in Linux arm64 OpenCode runtime](https://github.com/andy-takker/opencode-plugin-subagents-sidebar/pull/22) on [andy-takker/opencode-plugin-subagents-sidebar](https://github.com/andy-takker/opencode-plugin-subagents-sidebar)
 - [docs: lead with verified npm installation](https://github.com/andy-takker/opencode-plugin-subagents-sidebar/pull/21) on [andy-takker/opencode-plugin-subagents-sidebar](https://github.com/andy-takker/opencode-plugin-subagents-sidebar)
 - [fix(tui): resolve links while session location loads](https://github.com/YidaWeng/opencode/pull/1) on [YidaWeng/opencode](https://github.com/YidaWeng/opencode)
 - [docs: add opencode-plugin-subagents-sidebar to plugins](https://github.com/awesome-opencode/awesome-opencode/pull/1001) on [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
 - [fix: compile npm TUI entry for OpenCode 2.2.5 (v0.2.1)](https://github.com/andy-takker/opencode-plugin-subagents-sidebar/pull/20) on [andy-takker/opencode-plugin-subagents-sidebar](https://github.com/andy-takker/opencode-plugin-subagents-sidebar)
-- [chore: release v0.2.0 with refreshed Warp demo](https://github.com/andy-takker/opencode-plugin-subagents-sidebar/pull/19) on [andy-takker/opencode-plugin-subagents-sidebar](https://github.com/andy-takker/opencode-plugin-subagents-sidebar)
 
 
 ### 📊 Statistics
