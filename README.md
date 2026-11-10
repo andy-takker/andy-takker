@@ -158,10 +158,10 @@
 
 
 - [andy-takker/opencode-plugin-subagents-sidebar](https://github.com/andy-takker/opencode-plugin-subagents-sidebar) - OpenCode plugin: live subagent status, nested task tracking and clickable session navigation in a collapsible terminal sidebar.
-- [andy-takker/invest-terminal](https://github.com/andy-takker/invest-terminal) - Инвест-Терминал — кабинет инвестора: цели, реинвестирование, честная доходность, налоги, Telegram. Команда 404, Академия Финтеха 2026
 - [andy-takker/http-deadline](https://github.com/andy-takker/http-deadline) - Reproducible experiments on HTTP timeouts and operation deadlines in Python: retries, semaphore and connection-pool waits, response-body reads, and cancellation. Built with asyncio and aiohttp, with tests, raw data, and timelines.
 - [andy-takker/asyncly](https://github.com/andy-takker/asyncly) - Typed aiohttp HTTP clients &#43; pytest fixtures for realistic mock servers
 - [aldem2k00/rag-reliability](https://github.com/aldem2k00/rag-reliability) - Assessing the Reliability of Responses in RAG Systems @SMILES-2026
+- [andy-takker/example-web-service](https://github.com/andy-takker/example-web-service) - Example async Python web service (Litestar &#43; FastStream/NATS) with clean layered architecture, DI and import-linter
 
 
 ### 🔨 Recent Pull Requests
